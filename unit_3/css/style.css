@@ -1,0 +1,21 @@
+body {
+	background: url ("images/keyboard.jpg");
+}
+h1, h2, h3 { 
+	color: #330066; 
+	font-family: Calibri, Arial, Verdana, sans-serif;
+}
+p, ul, ol {
+	color; #444444;
+	font-family: Calibri, Arial, Verdana, sans-serif;
+}
+#slogan {
+	font-family: Calibri, Sans-Serif;
+	font-style: italic;
+	color: #336699;
+}
+
+#bkggrey {
+	color: #fff;
+	background-color: #404040;
+}
