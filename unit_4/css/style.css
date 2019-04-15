@@ -1,10 +1,16 @@
-@import url("https://fonts.googleapis.com/css?family=Merienda|Kalam");
+@import url("https://fonts.googleapis.com/css?family=Merienda|Kalam|Rokkit");
 
 h1, h2, h3 {
 	font-family: Merienda, cursive;
+	color: #222222;
+}
+
+p{
+	font-family: Rokkit, serif;
+	color: darkgray;
 }
 
 	#slogan {
 	font-family: Kalam, cursive;
-	color: #666666;
+	color: #444444;
 }
