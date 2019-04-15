@@ -1,5 +1,10 @@
-#slogan {
-	font-family: Calibri, sans-serif;
-	font-style: italic;
-	color: #336699;
+@import url("https://fonts.googleapis.com/css?family=Merienda|Neucha");
+
+h1, h2, h3 {
+	font-family: Merienda, cursive;
+}
+
+	#slogan {
+	font-family: Neucha, cursive;
+	color: #999999;
 }
