@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Merienda|Bad+Script|Rokkit");
+@import url("https://fonts.googleapis.com/css?family=Merienda|Bad+Script|Montserrat");
 
 h1, h2, h3 {
 	font-family: Merienda, cursive;
@@ -6,7 +6,7 @@ h1, h2, h3 {
 }
 
 p {
-	font-family: Rokkit, serif;
+	font-family: Montserrat,sans-serif;
 	color: #222222;
 }
 
