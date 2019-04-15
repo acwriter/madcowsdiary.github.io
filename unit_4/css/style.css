@@ -1,16 +1,16 @@
-@import url("https://fonts.googleapis.com/css?family=Merienda|Kalam|Rokkit");
+@import url("https://fonts.googleapis.com/css?family=Merienda|Bad+Script|Rokkit");
 
 h1, h2, h3 {
 	font-family: Merienda, cursive;
 	color: #222222;
 }
 
-p{
+p {
 	font-family: Rokkit, serif;
-	color: darkgray;
+	color: #222222;
 }
 
 	#slogan {
-	font-family: Kalam, cursive;
+	font-family: "Bad Script", cursive;
 	color: #444444;
 }
