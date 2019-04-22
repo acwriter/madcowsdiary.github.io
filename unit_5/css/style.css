@@ -18,7 +18,8 @@ nav {
 }
 
 #one {
-	background-image: url("point_2.jpg");
+	background: url("point_2.jpg") #e89c6c;
+	padding: 20px;
 }
 
 article {
