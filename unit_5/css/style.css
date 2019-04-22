@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Merienda|Bad+Script|Nunito+Sans");
+
+body {
+	font-family: "Nonito Sans", sans-serif;
+	color: #222222;
+}
+
+h1, h2, h3 {
+	font-family: Merienda, cursive;
+	color: #222222;
+}
+
+
+	#slogan {
+	font-family: "Nonito Sans", cursive;
+	color: #444444;
+}
