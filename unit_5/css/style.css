@@ -18,7 +18,7 @@ nav {
 }
 
 #one {
-	background-image: url("point_2.jpg") #e89c6c;
+	background: url("point_2.jpg") #e89c6c;
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
