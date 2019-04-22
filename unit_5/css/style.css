@@ -17,8 +17,11 @@ nav {
 	padding: 20px;
 }
 
-.one {
+#one {
 	background: url("point_2.jpg") #e89c6c;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
 	padding: 20px;
 }
 
