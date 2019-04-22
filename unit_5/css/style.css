@@ -11,6 +11,12 @@ header {
 	padding: 20px;
 }
 
+nav {
+	background-color: #e8c66a;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 h1, h2, h3 {
 	font-family: Merienda, cursive;
 	color: #222222;
