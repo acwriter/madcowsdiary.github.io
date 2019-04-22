@@ -37,6 +37,12 @@ section {
 	padding: 20px;
 }
 
+div {
+	background-color: #ff02b8;
+	border 1px black solid;
+	padding: 20px;
+}
+
 footer {
 	background-color: #ff957e;
 	border: 1px black solid;
