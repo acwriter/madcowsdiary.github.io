@@ -53,7 +53,7 @@ h1, h2, h3 {
 	color: #666666;
 }
 
-#one {
+.one {
 	background: url("point_2.jpg") #e89c6c;
 	background-repeat: no-repeat;
 	background-position: center;
