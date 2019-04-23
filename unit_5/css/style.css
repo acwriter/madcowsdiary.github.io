@@ -17,13 +17,6 @@ nav {
 	padding: 20px;
 }
 
-#one {
-	background: url("point_2.jpg") #e89c6c;
-	background-repeat: no-repeat;
-	background-position: center;
-	position: relative;
-	padding: 20px;
-}
 
 article {
 	background-color: #e89c6c;
@@ -58,4 +51,12 @@ h1, h2, h3 {
 #slogan {
 	font-family: Neucha, cursive;
 	color: #666666;
+}
+
+#one {
+	background: url("point_2.jpg") #e89c6c;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	padding: 20px;
 }
