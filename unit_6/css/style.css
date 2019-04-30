@@ -12,8 +12,15 @@ header {
 
 nav {
 	background-color: #444;
-	border: 1px white solid;
-	padding: 20px;
+	font-family: Neucha, sans-serif;
+	color: #fff;
+}
+
+a {
+	background-color: magenta;
+	color: #fff;
+	text-decoration: none;
+	display: block;
 }
 
 footer {
@@ -33,6 +40,6 @@ h1, h2, h3 {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 1500;
+	height: 2500;
 	padding: 20px;
 }
