@@ -46,16 +46,16 @@ footer {
 
 #logo {
 	background: url("../images/point_1.jpg");
-	opacity: 0.5;
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
+	opactiy: 0.8;
 	height: 200px;
 	padding: 20px;
 }
 
 #hero {
-	background-color: lightgray;
+	background: url("../images/notebook.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
