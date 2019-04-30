@@ -62,7 +62,7 @@ h1, h2, h3 {
 	padding: 20px;
 }
 
-#two_column {
+#column {
 	background-color: #ffb7cf;
 	border: 1px black solid;
 	padding: 20px;
@@ -80,7 +80,7 @@ h1, h2, h3 {
 	background-color: #fff;
 	border: 1px black solid;
 	padding: 20px;
-	fload: middle;
+	float: middle;
 	width: 20%;
 }
 
