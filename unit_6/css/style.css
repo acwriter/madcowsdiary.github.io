@@ -74,6 +74,18 @@ footer {
 	padding: 10px;
 }
 
+#writing {
+	background-color: #b20068;
+	margin: 5px;
+	padding: 10px;
+}
+
+#digital {
+	background-color: #b20068;
+	margin: 5px;
+	padding: 10px;
+}
+
 #section_one {
 	display: inline-block;
 	border: 3px #b20068 solid;
