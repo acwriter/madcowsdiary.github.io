@@ -17,10 +17,13 @@ nav {
 }
 
 a {
-	background-color: magenta;
+	background-color: #666;
 	color: #fff;
 	text-decoration: none;
 	display: block;
+	float: left;
+	padding: 20px;
+	border-right: 1px white solid;
 }
 
 footer {
