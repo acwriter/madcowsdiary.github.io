@@ -26,6 +26,11 @@ a {
 	border-right: 1px white solid;
 }
 
+a:hover {
+	background-color: #b20068;
+	color: #fff;
+}
+
 footer {
 	color: white;
 	background-color: #444;
