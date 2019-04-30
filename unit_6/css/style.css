@@ -64,14 +64,16 @@ footer {
 }
 
 .columns {
-	display: block;
-	float: left;
+	
 }
 
 #consulting {
 	background-color: #b20068;
+	width: 200px
 	margin: 5px;
 	padding: 10px;
+	display: block;
+	float: left;
 }
 
 #writing {
