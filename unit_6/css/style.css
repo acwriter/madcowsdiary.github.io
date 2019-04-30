@@ -44,15 +44,9 @@ h1, h2, h3 {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 3500;
+	height: 5em;
 	padding: 20px;
 }
 
-.clearfix {
-	visibility: hidden;
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
+
+
