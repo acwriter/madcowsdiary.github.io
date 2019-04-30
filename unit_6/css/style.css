@@ -58,6 +58,7 @@ footer {
 	text-align: center;
 	border-top: 3px #b20068 solid;
 	border-bottom: 3px #b20068 solid;
+	margin: 1px 0 0 0;
 }
 
 #wrapper {
@@ -72,7 +73,7 @@ footer {
 .columns {
 	display: block;
 	float: left;
-	width: 435px;
+	width: 432px;
 	height: 300px
 	padding: 20px;
 	margin: 10px;
