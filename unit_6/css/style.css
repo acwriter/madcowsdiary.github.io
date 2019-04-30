@@ -65,6 +65,7 @@ footer {
 }
 
 #section_one {
+	display: inline-block;
 	border: 3px #b20068 solid;
 	margin: 20px;
 	padding: 20px;
