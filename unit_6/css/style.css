@@ -6,8 +6,7 @@ body {
 }
 
 header {
-	background-color: #ffed74;
-	border:; 1px black solid;
+	background-color: #444444;
 	padding: 20px;
 }
 
@@ -47,6 +46,10 @@ h1, h2, h3 {
 	color: #222222;
 }
 
+#logo {
+	font-family: Merienda, cursive;
+	color: #fff;
+}
 
 #slogan {
 	font-family: "Nonito Sans": cursive;
@@ -62,7 +65,7 @@ h1, h2, h3 {
 	padding: 20px;
 }
 
-.column {
+#column {
 	background-color: #ffb7cf;
 	border: 1px black solid;
 	padding: 20px;
