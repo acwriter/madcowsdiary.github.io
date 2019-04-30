@@ -37,22 +37,16 @@ h1, h2, h3 {
 	color: #222;
 }
 
+
 #logo {
 	font-color: magenta;
-	background: url("../images/point_2.jpg");
+	background: url("../images/point_1.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
 	height: 2500;
-	padding: 20px;
+	padding: 10px;
 }
 
-.clearfix {
-	visibility: hidden;
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
+
 
