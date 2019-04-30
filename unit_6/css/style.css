@@ -56,7 +56,7 @@ footer {
 #quote {
 	font-color: #b20068;
 	text-align: center;
-	border-bottom: 3px #b20068 solid;
+	border: 3px 0 #b20068 solid;
 }
 
 #wrapper {
@@ -71,7 +71,7 @@ footer {
 .columns {
 	display: block;
 	float: left;
-	width: 430px;
+	width: 440px;
 	height: 300px
 	padding: 20px;
 	margin: 10px;
