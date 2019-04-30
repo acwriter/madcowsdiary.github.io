@@ -26,3 +26,13 @@ h1, h2, h3 {
 	font-family: Merienda, cursive;
 	color: #222;
 }
+
+#logo {
+	font-color: #fff;
+	background: url("../images/point_2.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	height: 1100;
+	padding: 20px;
+}
