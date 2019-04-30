@@ -94,6 +94,21 @@ footer {
 	padding: 10px 20px;
 }
 
+#column1 {
+	background-color: #444
+	padding: 10px 20px;
+}
+
+#column2 {
+	background-color: #444
+	padding: 10px 20px;
+}
+
+#column3 {
+	background-color: #444
+	padding: 10px 20px;
+}
+
 #section_one {
 	display: inline-block;
 	border: 3px #b20068 solid;
