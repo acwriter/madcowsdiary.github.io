@@ -12,12 +12,12 @@ header {
 
 nav {
 	background-color: #444;
-	font-family: Merienda, sans-serif;
 	color: #fff;
 }
 
 a {
 	background-color: #444;
+	font-family: Merienda, sans-serif;
 	color: #fff;
 	text-decoration: none;
 	display: block;
@@ -31,25 +31,25 @@ a:hover {
 	color: #fff;
 }
 
-footer {
-	color: white;
-	background-color: #444;
-	border: 1px white solid;
-	padding: 20px;
-}
-
 h1, h2, h3 {
 	font-family: Merienda, cursive;
 	color: #222;
 }
 
+footer {
+	color: #fff;
+	background-color: #444;
+	border: 1px white solid;
+	padding: 20px;
+}
+
 
 #logo {
-	background: url("../images/point_1.jpg");
+	background: url("../images/notebook.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 2000;
+	height: 800px;
 	padding: 20px;
 }
 
