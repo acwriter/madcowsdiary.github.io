@@ -7,6 +7,7 @@ body {
 
 header {
 	background-color: #444;
+	height: 1500;
 	padding: 20px;
 }
 
@@ -44,9 +45,16 @@ h1, h2, h3 {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 5000;
+	height: 2500;
 	padding: 20px;
 }
 
-
+.clearfix {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
 
