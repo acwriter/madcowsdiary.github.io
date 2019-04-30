@@ -28,11 +28,11 @@ h1, h2, h3 {
 }
 
 #logo {
-	font-color: #fff;
+	font-color: magenta;
 	background: url("../images/point_2.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 1100;
+	height: 1500;
 	padding: 20px;
 }
