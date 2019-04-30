@@ -6,7 +6,7 @@ body {
 }
 
 header {
-	background-color: #444;
+	background-color: #fff;
 	padding: 20px;
 }
 
@@ -45,16 +45,17 @@ footer {
 
 
 #logo {
-	background: url("../images/notebook.jpg");
+	background: url("../images/point_1.jpg");
+	opacity: 0.5;
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 800px;
+	height: 200px;
 	padding: 20px;
 }
 
 #hero {
-	background: url("../images/notebook.jpg");
+	background-color: lightgray;
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
