@@ -6,11 +6,7 @@ body {
 }
 
 header {
-	background: url(".../images/point_2");
-	background-repeat: no-repeat;
-	background-position: center;
-	position: relative;
-	height: 1200;
+	background-color: #444;
 	padding: 20px;
 }
 
