@@ -17,7 +17,7 @@ nav {
 }
 
 a {
-	background-color: #666;
+	background-color: #222222;
 	color: #fff;
 	text-decoration: none;
 	display: block;
@@ -44,7 +44,7 @@ h1, h2, h3 {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 5em;
+	height: 5000;
 	padding: 20px;
 }
 
