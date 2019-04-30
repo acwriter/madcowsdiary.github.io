@@ -54,7 +54,7 @@ footer {
 }
 
 #wrapper {
-	background: url("../images/notebook.jpg");
+	background-image: url("../images/notebook.jpg")
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
@@ -72,17 +72,17 @@ footer {
 }
 
 #consulting {
-	background-color: rgba(178, 0, 104, 0.3);
+	background-color: rgba(178, 0, 104, 0.5);
 	padding: 10px 20px;
 }
 
 #writing {
-	background-color: rgba(178, 0, 104, 0.3);
+	background-color: rgba(178, 0, 104, 0.5);
 	padding: 20px 5px;
 }
 
 #digital {
-	background-color: rgba(178, 0, 104, 0.3);
+	background-color: rgba(178, 0, 104, 0.5);
 	padding: 20px 5px;
 }
 
