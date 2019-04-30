@@ -54,7 +54,7 @@ footer {
 }
 
 #wrapper {
-	background-image: url("../images/notebook.jpg");
+	background-image: url("../images/notebook_1.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
@@ -65,7 +65,7 @@ footer {
 .columns {
 	display: block;
 	float: left;
-	width: 460px;
+	width: 520px;
 	height: 300px
 	padding: 20px;
 	margin: 10px;
