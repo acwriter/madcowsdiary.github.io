@@ -73,7 +73,15 @@ h1, h2, h3 {
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 46%;
+	width: 20%;
+}
+
+#middle {
+	background-color: #fff;
+	border: 1px black solid;
+	padding: 20px;
+	fload: middle;
+	width: 20%;
 }
 
 #right {
@@ -81,7 +89,7 @@ h1, h2, h3 {
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 46%;
+	width: 20%;
 }	
 
 .clearfix:after {
