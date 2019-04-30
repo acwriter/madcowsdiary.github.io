@@ -12,7 +12,7 @@ header {
 
 nav {
 	background-color: #444;
-	font-family: Neucha, sans-serif;
+	font-family: Merienda, sans-serif;
 	color: #fff;
 }
 
@@ -46,3 +46,13 @@ h1, h2, h3 {
 	height: 2500;
 	padding: 20px;
 }
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
