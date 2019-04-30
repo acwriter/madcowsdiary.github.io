@@ -37,7 +37,17 @@ h1, h2, h3 {
 	color: #222;
 }
 
-.clearfix {
+
+#logo {
+	background: url("../images/point_1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	height: 2500px;
+	padding: 10px;
+}
+
+.clearfix:after {
 	visibility: hidden;
 	display: block;
 	content: " ";
@@ -45,15 +55,4 @@ h1, h2, h3 {
 	height: 0;
 	font-size: 0;
 }
-
-#logo {
-	background: url("../images/point_1.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	position: relative;
-	height: 2500;
-	padding: 10px;
-}
-
-
 
