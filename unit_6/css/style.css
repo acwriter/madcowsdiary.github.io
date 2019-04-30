@@ -56,7 +56,8 @@ footer {
 #quote {
 	font-color: #b20068;
 	text-align: center;
-	border: 3px 0 #b20068 solid;
+	border-top: 3px #b20068 solid;
+	border-bottom: 3px #b20068 solid;
 }
 
 #wrapper {
