@@ -22,7 +22,7 @@ a {
 	text-decoration: none;
 	display: block;
 	float: left;
-	padding: 20px;
+	padding: 10px;
 	border-right: 1px white solid;
 }
 
@@ -44,10 +44,10 @@ h1, h2, h3 {
 	background-position: center;
 	position: relative;
 	height: 2500px;
-	padding: 10px;
+	padding: 20px;
 }
 
-.clearfix:after {
+.clearfix {
 	visibility: hidden;
 	display: block;
 	content: " ";
