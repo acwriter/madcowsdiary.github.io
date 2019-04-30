@@ -25,3 +25,8 @@ footer {
 	border: 1px white solid;
 	padding: 20px;
 }
+
+h1, h2, h3 {
+	font-family: Merinda, cursive;
+	color: #222;
+}
