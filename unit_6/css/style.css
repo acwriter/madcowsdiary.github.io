@@ -62,13 +62,13 @@ h1, h2, h3 {
 	padding: 20px;
 }
 
-#column {
+.column {
 	background-color: #ffb7cf;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-#left {
+#column1 {
 	background-color: #e582a2;
 	border: 1px black solid;
 	padding: 20px;
@@ -76,19 +76,19 @@ h1, h2, h3 {
 	width: 20%;
 }
 
-#middle {
+#column2 {
 	background-color: #0064d2;
 	border: 1px black solid;
 	padding: 20px;
-	float: middle;
+	float: left;
 	width: 20%;
 }
 
-#right {
+#column3 {
 	background-color: #e55b88;
 	border: 1px black solid;
 	padding: 20px;
-	float: right;
+	float: left;
 	width: 20%;
 }	
 
