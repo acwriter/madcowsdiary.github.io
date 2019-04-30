@@ -6,11 +6,7 @@ body {
 }
 
 header {
-	background: url("../images/point_2.jpg"); 
-	padding: 20px;
-	font-family: Merienda, cursive;
-	font-color: #fff;
-	font-size: 1.8em;
+	
 }
 
 nav {
@@ -20,7 +16,8 @@ nav {
 }
 
 a {
- 	backgound-color: #444444;
+ 	font-family: Merienda, cursive;
+ 	background-color: #444444;
  	color: #fff;
  	text-decoration: none;
  	display: block;
@@ -53,11 +50,18 @@ footer {
 	padding: 20px;
 }
 
-h2, h3 {
+h1, h2, h3 {
 	font-family: Merienda, cursive;
 	color: #222222;
 }
 
+#logo {
+	background: url("../images/point_2.jpg"); 
+	padding: 20px;
+	font-family: Merienda, cursive;
+	font-color: #fff;
+	font-size: 1.8em;
+}
 
 #slogan {
 	font-family: "Nonito Sans": cursive;
