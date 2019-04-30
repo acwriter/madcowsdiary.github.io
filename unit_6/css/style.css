@@ -37,17 +37,8 @@ h1, h2, h3 {
 	color: #222;
 }
 
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
 
 #logo {
-	font-color: magenta;
 	background: url("../images/point_1.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
@@ -56,5 +47,12 @@ h1, h2, h3 {
 	padding: 10px;
 }
 
-
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
 
