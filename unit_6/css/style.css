@@ -6,11 +6,8 @@ body {
 }
 
 header {
-	background-color: #444444;
+	background: url("../images/point_2.jpg"); 
 	padding: 20px;
-	font-family: Merienda, cursive;
-	font-color: #fff;
-	font-size: 2em;
 }
 
 nav {
@@ -50,7 +47,9 @@ h1, h2, h3 {
 }
 
 #logo {
-
+	font-family: Merienda, cursive;
+	font-color: #fff;
+	font-size: 1.5em;
 }
 
 #slogan {
