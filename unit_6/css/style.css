@@ -53,6 +53,11 @@ footer {
 	padding: 20px;
 }
 
+#quote {
+	color: #b20068;
+	text-align: center;
+}
+
 #wrapper {
 	background-image: url("../images/notebook_1.jpg");
 	background-repeat: no-repeat;
