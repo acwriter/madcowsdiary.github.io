@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css?family=Merienda|Neucha|Nunito+Sans");
+
+body {
+	font-family: "Nonito Sans", sans-serif;
+	color: #222222;
+}
+
+header {
+	background-color: #ffed74;
+	border:; 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #e8c66a;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+
+article {
+	background-color: #e89c6c;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section {
+	background-color:#ffe2b8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div {
+	background-color:#ffe2b8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #ff957e;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1, h2, h3 {
+	font-family: Merienda, cursive;
+	color: #222222;
+}
+
+
+#slogan {
+	font-family: "Nonito Sans": cursive;
+	color: #666666;
+}
+
+#one {
+	background: url("../images/point_2.jpg") #e89c6c;
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	height: 1000;
+	padding: 20px;
+}
