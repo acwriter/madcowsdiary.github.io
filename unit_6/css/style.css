@@ -15,9 +15,18 @@ header {
 
 nav {
 	background-color: #e8c66a;
-	border: 1px black solid;
+	border: 1px #ffffff solid;
 	padding: 20px;
 }
+
+a {
+ 	backgound-color: #444444;
+ 	color: #fff;
+ 	text-decoration: none;
+ 	display: block;
+ 	float: left;
+ 	padding: 20px;
+ }
 
 
 article {
