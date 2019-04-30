@@ -49,22 +49,29 @@ footer {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 350px;
+	height: 2000px;
 	padding: 20px;
 }
 
-#services {
+#wrapper {
 	background: url("../images/notebook.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	opacity: 0.8;
 	position: relative;
+	margin: 20px 0;
 	padding: 20px;
 }
 
 .columns {
 	display: block;
 	float: left;
+}
+
+#consulting {
+	background-color: #b20068;
+	margin: 5px;
+	padding: 10px;
 }
 
 #section_one {
