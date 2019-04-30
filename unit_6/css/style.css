@@ -27,6 +27,7 @@ a {
 }
 
 footer {
+	color: white;
 	background-color: #444;
 	border: 1px white solid;
 	padding: 20px;
@@ -46,13 +47,3 @@ h1, h2, h3 {
 	height: 2500;
 	padding: 20px;
 }
-
-.clearfix {
-	visibility: hidden;
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
-
