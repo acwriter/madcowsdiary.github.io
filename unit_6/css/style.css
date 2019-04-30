@@ -37,6 +37,14 @@ h1, h2, h3 {
 	color: #222;
 }
 
+.clearfix {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
 
 #logo {
 	background: url("../images/point_1.jpg");
@@ -47,12 +55,5 @@ h1, h2, h3 {
 	padding: 10px;
 }
 
-.clearfix {
-	visibility: hidden;
-	display: block;
-	content: " ";
-	clear: both;
-	height: 0;
-	font-size: 0;
-}
+
 
