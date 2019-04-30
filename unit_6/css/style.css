@@ -64,7 +64,9 @@ footer {
 }
 
 .columns {
-	width: 800px;	
+	width: 800px;
+	display: block;
+	float: left;	
 }
 
 #consulting {
@@ -72,8 +74,6 @@ footer {
 	width: 200px
 	margin: 5px;
 	padding: 10px;
-	display: block;
-	float: left;
 }
 
 #writing {
@@ -81,8 +81,6 @@ footer {
 	width: 200px;
 	margin: 5px;
 	padding: 10px;
-	display: block;
-	float: left;
 }
 
 #digital {
@@ -90,8 +88,6 @@ footer {
 	width: 200px;
 	margin: 5px;
 	padding: 10px;
-	display: block;
-	float: left;
 }
 
 #section_one {
