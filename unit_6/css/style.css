@@ -57,7 +57,6 @@ footer {
 	background: url("../images/notebook.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
-	opacity: 0.8;
 	position: relative;
 	margin: 20px 0;
 	padding: 20px;
@@ -66,24 +65,25 @@ footer {
 .columns {
 	display: block;
 	float: left;
-	width: 500px;
+	width: 400px;
 	height: 300px
 	padding: 20px;
 	margin: 10px;
 }
 
 #consulting {
-	color: white;
-	background-color: #b20068;
-	padding: 20px;
+	background-color: rgba(178, 104, 0, 0.3);
+	padding: 20px 5px;
 }
 
 #writing {
 	background-color: #b20068;
+	padding: 20px 5px;
 }
 
 #digital {
 	background-color: #b20068;
+	padding: 20px 5px;
 }
 
 #section_one {
