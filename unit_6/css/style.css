@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Merienda|Neucha|Nunito+Sans");
+
+body {
+	font-family: "Nonito Sans", sans-serif;
+	color: #222222;
+}
+
+header {
+	background: url(".../images/point_2");
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	height: 1200;
+	padding: 20px;
+}
+
+nav {
+	background-color: #444;
+	border: 1px white solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #444;
+	border: 1px white solid;
+	padding: 20px;
+}
