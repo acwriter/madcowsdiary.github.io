@@ -64,7 +64,7 @@ footer {
 }
 
 .columns {
-	
+	width: 800px;	
 }
 
 #consulting {
@@ -78,14 +78,20 @@ footer {
 
 #writing {
 	background-color: #b20068;
+	width: 200px;
 	margin: 5px;
 	padding: 10px;
+	display: block;
+	float: left;
 }
 
 #digital {
 	background-color: #b20068;
+	width: 200px;
 	margin: 5px;
 	padding: 10px;
+	display: block;
+	float: left;
 }
 
 #section_one {
