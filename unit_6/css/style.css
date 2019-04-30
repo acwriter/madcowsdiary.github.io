@@ -53,11 +53,29 @@ h1, h2, h3 {
 	color: #666666;
 }
 
-#one {
+#hero {
 	background: url("../images/point_2.jpg") #e89c6c;
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
 	height: 1000;
+	padding: 20px;
+}
+
+#two_column {
+	background-color: #ffb7cf;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #e582a2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-color: #e55b88;
+	border: 1px black solid;
 	padding: 20px;
 }
