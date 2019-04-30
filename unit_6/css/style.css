@@ -54,7 +54,6 @@ h1, h2, h3 {
 }
 
 #hero {
-	text-align: center;
 	background: url("../images/notebook.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
