@@ -101,7 +101,7 @@ footer {
 }
 
 .columns {
-	display: block;
+	display: inline-block;
 	float: left;
 	width: 424px;
 	height: 340px
