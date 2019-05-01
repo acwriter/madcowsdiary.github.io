@@ -96,7 +96,6 @@ footer {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	margin: 20px 0;
 	padding: 20px;
 }
 
@@ -110,10 +109,12 @@ footer {
 }
 
 #consulting {
+	display: inline-block;
 	float: left;
 }
 
 #services {
+	display: inline-block;
 	float: right;
 }
 
