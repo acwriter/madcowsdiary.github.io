@@ -104,19 +104,16 @@ footer {
 #consulting {
 	display: block;
 	float: left;
-	margin:0 5 0 20;
 }
 
 #services {
 	display: block;
 	float: right;
-	margin:0 20 0 5;
 }
 
 #section_one {
 	background-color: #fff;
 	border: 3px #b20068 solid;
-	margin: 20px;
 	padding: 20px;
 }
 
@@ -128,7 +125,7 @@ footer {
 	text-decoration: none;
 	display: block;
 	float: left;
-	width: 400px;
+	width: 200px;
 	padding: 10px;
 	border-right: 1px white solid;
 }
@@ -140,13 +137,11 @@ footer {
 	text-decoration: none;
 	display: block;
 	float: left;
-	width: 400px;
+	width: 200px;
 	padding: 10px;
 	border-right: 1px white solid;
 
 }
-
-
 
 .clearfix:after {
 	visibility: hidden;
