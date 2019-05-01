@@ -110,8 +110,11 @@ footer {
 }
 
 #consulting {
-	background-color: rgba(178, 0, 104, 0.5);
-	padding: 10px 20px;
+	float: left;
+}
+
+#services {
+	float: right;
 }
 
 #writing {
