@@ -125,6 +125,7 @@ footer {
 	display: block;
 	float: left;
 	padding: 10px;
+	margin: 5 20 5 5;
 }
 
 #phone {
@@ -134,6 +135,7 @@ footer {
 	display: block;
 	float: left;
 	padding: 10px;
+	margin: 5 20 5 5;
 }
 
 #book {
@@ -143,6 +145,7 @@ footer {
 	display: block;
 	float: left;
 	padding: 10px;
+	margin: 5 20 5 5;
 }
 
 #contact1 {
@@ -152,8 +155,6 @@ footer {
 	display: block;
 	float: left;
 	padding: 10px;
-	border-right: 1px white solid;
-
 }
 
 #contact2 {
@@ -163,8 +164,6 @@ footer {
 	display: block;
 	float: left;
 	padding: 10px;
-	border-right: 1px white solid;
-
 }
 
 #contact3 {
@@ -174,8 +173,6 @@ footer {
 	display: block;
 	float: left;
 	padding: 10px;
-	border-right: 1px white solid;
-
 }
 
 .clearfix:after {
