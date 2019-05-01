@@ -145,7 +145,7 @@ footer {
 }
 
 #section_one {
-	display: inline-block;
+	background-color: #fff;
 	border: 3px #b20068 solid;
 	margin: 20px;
 	padding: 20px;
