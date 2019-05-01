@@ -113,34 +113,40 @@ footer {
 	margin:0 20 0 5;
 }
 
-#writing {
-	background-color: rgba(178, 0, 104, 0.5);
-	padding: 10px 20px;
-}
-
-#digital {
-	background-color: rgba(178, 0, 104, 0.5);
-	padding: 10px 20px;
-}
-
-#contact {
-	color: #fff;
-	background-color: #444
-	padding: 10px 20px;
-}
-
-#contact1 {
-	background-color: #444
-	padding: 10px 20px;
-
-}
-
 #section_one {
 	background-color: #fff;
 	border: 3px #b20068 solid;
 	margin: 20px;
 	padding: 20px;
 }
+
+
+#contact {
+	background-color: #444;
+	font-family: Merienda, sans-serif;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	float: left;
+	width: 400px;
+	padding: 10px;
+	border-right: 1px white solid;
+}
+
+#contact1 {
+	background-color: #fff;
+	font-family: Merienda, sans-serif;
+	color: #b20068;
+	text-decoration: none;
+	display: block;
+	float: left;
+	width: 400px;
+	padding: 10px;
+	border-right: 1px white solid;
+
+}
+
+
 
 .clearfix:after {
 	visibility: hidden;
