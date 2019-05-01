@@ -118,7 +118,25 @@ footer {
 }
 
 
-#contact {
+#email {
+	background-color: #fff;
+	font-family: Merienda, sans-serif;
+	color: #b20068;
+	display: block;
+	float: left;
+	padding: 10px;
+}
+
+#phone {
+	background-color: #fff;
+	font-family: Merienda, sans-serif;
+	color: #b20068;
+	display: block;
+	float: left;
+	padding: 10px;
+}
+
+#book {
 	background-color: #fff;
 	font-family: Merienda, sans-serif;
 	color: #b20068;
@@ -128,6 +146,28 @@ footer {
 }
 
 #contact1 {
+	background-color: #444;
+	font-family: Merienda, sans-serif;
+	color: #fff;
+	display: block;
+	float: left;
+	padding: 10px;
+	border-right: 1px white solid;
+
+}
+
+#contact2 {
+	background-color: #444;
+	font-family: Merienda, sans-serif;
+	color: #fff;
+	display: block;
+	float: left;
+	padding: 10px;
+	border-right: 1px white solid;
+
+}
+
+#contact3 {
 	background-color: #444;
 	font-family: Merienda, sans-serif;
 	color: #fff;
