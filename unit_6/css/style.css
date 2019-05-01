@@ -125,7 +125,7 @@ footer {
 	display: block;
 	float: left;
 	padding: 10px;
-	margin-left: 30px;
+	margin-right: 30px;
 }
 
 #phone {
@@ -135,7 +135,7 @@ footer {
 	display: block;
 	float: left;
 	padding: 10px;
-	margin-left: 30px;
+	margin-right: 30px;
 }
 
 #book {
@@ -145,7 +145,7 @@ footer {
 	display: block;
 	float: left;
 	padding: 10px;
-	margin-left: 30px;
+	margin-right: 30px;
 }
 
 #contact1 {
@@ -154,6 +154,7 @@ footer {
 	color: #fff;
 	display: block;
 	float: left;
+	margin-right: 30px;
 	padding: 10px;
 }
 
@@ -163,6 +164,7 @@ footer {
 	color: #fff;
 	display: block;
 	float: left;
+	margin-right: 30px;
 	padding: 10px;
 }
 
@@ -172,6 +174,7 @@ footer {
 	color: #fff;
 	display: block;
 	float: left;
+	margin-right: 30px;
 	padding: 10px;
 }
 
