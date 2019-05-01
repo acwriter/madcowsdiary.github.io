@@ -98,15 +98,7 @@ footer {
 	position: relative;
 	margin: 20px 0;
 	padding: 20px;
-}
 
-.columns {
-	display: inline-block;
-	float: left;
-	width: 424px;
-	height: 340px
-	padding: 20px;
-	margin: 10px;
 }
 
 #consulting {
@@ -131,20 +123,15 @@ footer {
 	padding: 10px 20px;
 }
 
-#column1 {
+#contacts {
+	color: #fff;
 	background-color: #444
 	padding: 10px 20px;
 }
 
-#column2 {
+#columns {
 	background-color: #444
 	padding: 10px 20px;
-}
-
-#column3 {
-	background-color: #444
-	padding: 10px 20px;
-}
 
 #section_one {
 	background-color: #fff;
