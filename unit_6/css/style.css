@@ -96,9 +96,9 @@ footer {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	opacity: 0.5;
+	opacity: 0.8;
 	width: 100%;
-	margin: 20px 0;
+	margin: 10px 0;
 	padding: 20px;
 
 }
@@ -106,13 +106,14 @@ footer {
 #consulting {
 	margin-left: 50px;
 	display: block;
-	float: left;
+	width: 50%;
 }
 
 #services {
 	margin-right: 50px;
 	display: block;
-	float: right;
+	width: 50%;
+
 }
 
 #section_one {
