@@ -103,6 +103,12 @@ footer {
 
 }
 
+#wrapper div {
+	width: 50%;
+	float: left;
+	marging: 0;
+}
+
 #consulting {
 	margin-left: 50px;
 	display: block;
