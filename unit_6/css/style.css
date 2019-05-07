@@ -103,12 +103,6 @@ footer {
 
 }
 
-#wrapper div {
-	width: 50%;
-	float: left;
-	marging: 0;
-}
-
 #consulting {
 	margin-left: 50px;
 	display: block;
@@ -126,6 +120,15 @@ footer {
 	background-color: #fff;
 	border: 3px #b20068 solid;
 	padding: 20px;
+}
+#contact {
+	background-color: #fff;
+	font-family: Merienda, sans-serif;
+	color: #b20068;
+	display: block;
+	float: left;
+	width: 33%;
+	padding: 10px;
 }
 
 
