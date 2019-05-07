@@ -106,12 +106,14 @@ footer {
 #consulting {
 	margin-left: 50px;
 	display: block;
+	float: left;
 	width: 50%;
 }
 
 #services {
 	margin-right: 50px;
 	display: block;
+	float: right;
 	width: 50%;
 
 }
