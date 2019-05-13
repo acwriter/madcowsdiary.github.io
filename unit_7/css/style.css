@@ -78,6 +78,24 @@ footer {
 	padding: 20px;
 }
 
+#consulting {
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 10px 20px;
+	width: 33%;
+}
+
+#writing {
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 10px 20px;
+	width: 33%;
+}
+
+#digital {
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 10px 20px;
+	width: 33%;
+}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -85,6 +103,5 @@ footer {
 	clear: both;
 	height: 0;
 	font-size: 0;
-
 }
 
