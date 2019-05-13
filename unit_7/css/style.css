@@ -76,20 +76,25 @@ footer {
 }
 
 #consulting {
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, 0.2);
 	width: 30%;
+	margin:  0 10px;
+	padding: 5 20px;
 }
 
 #writing {
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, 0.2);
 	width: 30%;
+	margin:  0 10px;
+	padding: 5 20px;
 }
 
 #digital {
-	background-color: rgba(0, 0, 0, 0.8);
+	background-color: rgba(0, 0, 0, 0.2);
 	padding: 10px 20px;
 	width: 30%;
-}
+	margin:  0 10px;
+	padding: 5 20px;}
 
 .clearfix:after {
 	visibility: hidden;
