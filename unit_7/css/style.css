@@ -162,9 +162,7 @@ footer {
 	font-family: "Nonito Sans", sans-serif;
 	color: #b20068;
 	text-decoration: none;
-	display: inline-block;
-	float: left;
-	padding: 10px;
+	display: inline;
 }
 
 .twocolumns a:hover {
