@@ -84,26 +84,27 @@ footer {
 
 .columns p {
 	background-color: rgba(232, 4, 87, 0.2);
+	padding: 20px;
 	
 }
 
 #consulting {
 	display: inline-block;
-	width: 30%;
+	width: 28%;
 	margin: 5px 10px;
 	padding: 20px;
 }
 
 #writing {
 	display: inline-block;
-	width: 30%;
+	width: 28%;
 	margin: 5px 10px;
 	padding: 20px;
 }
 
 #digital {
 	display: inline-block;
-	width: 30%;
+	width: 28%;
 	margin: 5px 10px;
 	padding: 20px;
 }
