@@ -73,19 +73,15 @@ footer {
 	display: block;
 	float: left;
 	width: 100%;
-	margin: 10px;
-	padding: 20px;
 }
 
 #consulting {
 	background-color: rgba(0, 0, 0, 0.5);
-	padding: 10px 20px;
 	width: 33%;
 }
 
 #writing {
 	background-color: rgba(0, 0, 0, 0.5);
-	padding: 10px 20px;
 	width: 33%;
 }
 
