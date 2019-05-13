@@ -146,6 +146,21 @@ footer {
 	width: 50%;
 }
 
+.twocolumns a {
+	font-family: Merienda, sans-serif;
+	color: #b20068;
+	text-decoration: none;
+	display: block;
+	float: left;
+	width: 150px;
+	padding: 10px;
+}
+
+.twocolumns a:hover {
+	color: #444;
+}
+
+
 #left {
 	display: block;
 	float: left;
