@@ -82,30 +82,28 @@ footer {
 	width: 100%;
 }
 
-.columns div {
+.columns p {
+	background-color: rgba(232, 4, 87, 0.2);
 	
 }
 
 #consulting {
 	display: inline-block;
-	background-color: rgba(232, 4, 87, 0.2);
-	width: 27%;
+	width: 30%;
 	margin: 5px 10px;
 	padding: 20px;
 }
 
 #writing {
 	display: inline-block;
-	background-color: rgba(232, 4, 87, 0.2);
-	width: 27%;
+	width: 30%;
 	margin: 5px 10px;
 	padding: 20px;
 }
 
 #digital {
 	display: inline-block;
-	background-color: rgba(232, 4, 87, 0.2);
-	width: 27%;
+	width: 30%;
 	margin: 5px 10px;
 	padding: 20px;
 }
