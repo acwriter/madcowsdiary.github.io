@@ -47,9 +47,8 @@ h1 {
 
 h2 {
 	font-size: 1.5em;
-	padding: .8em 0;
 	color: #b20068;
-	bottom-border-color: #b20068;
+	bottom-border: 1px #b20068 solid;
 }
 
 footer {
