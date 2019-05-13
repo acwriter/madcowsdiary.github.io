@@ -51,6 +51,23 @@ h2 {
 	bottom-border: 1px #b20068 solid;
 }
 
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: left;
+	width: 50%;
+	height: 6em;
+	outline: 2px #b20068 solid;
+	text-align: center;
+	line-height: 6em;
+	color: #b20068;
+
+}
+
 footer {
 	color: #fff;
 	background-color: #444;
@@ -125,6 +142,19 @@ footer {
 .columns a:hover {
 	background-color: #444;
 	color: #fff;
+}
+
+#left {
+	margin-left: 50px;
+	display: block;
+	float: left;
+}
+
+#right {
+	margin-right: 50px;
+	display: block;
+	float: right;
+
 }
 
 .clearfix:after {
