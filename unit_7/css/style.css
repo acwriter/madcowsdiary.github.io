@@ -147,12 +147,11 @@ footer {
 }
 
 .twocolumns a {
-	font-family: Merienda, sans-serif;
+	font-family: "Nonito Sans", sans-serif;
 	color: #b20068;
 	text-decoration: none;
 	display: block;
 	float: left;
-	width: 150px;
 	padding: 10px;
 }
 
