@@ -140,7 +140,8 @@ footer {
 	display: inline-block;
 	font-color: #b20068;
 	text-align: center;
-	border-bottom: 2px #b20068 solid;
+	border-top: 3px #b20068 solid;
+	border-bottom: 3px #b20068 solid;
 	margin: 5px 0;
 }
 
