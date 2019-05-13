@@ -137,6 +137,7 @@ footer {
 }
 
 #quote {
+	display: inline-block;
 	font-color: #b20068;
 	text-align: center;
 	border-bottom: 2px #b20068 solid;
