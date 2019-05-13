@@ -67,6 +67,7 @@ footer {
 	width: 100%;
 	margin: 0;
 	padding: 20px;
+	border-top: 3px #b20068 solid;
 }
 
 #quote {
@@ -84,7 +85,7 @@ footer {
 }
 
 .columns p {
-	background-color: rgba(232, 4, 87, 0.2);
+	background-color: rgba(0, 0, 0, 0.2);
 	padding: 20px;
 	
 }
