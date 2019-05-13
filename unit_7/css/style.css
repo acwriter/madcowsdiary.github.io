@@ -190,8 +190,7 @@ footer {
 	font-color: #b20068;
 	text-align: center;
 	border-top: 3px #b20068 solid;
-	border-bottom: 3px #b20068 solid;
-	margin: 10px 0;
+	margin: 0;
 }
 
 .clearfix:after {
