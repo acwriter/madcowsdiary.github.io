@@ -164,15 +164,19 @@ footer {
 #left {
 	display: block;
 	float: left;
+	width: 40%;
+	margin-left: 50px;
 }
 
 #right {
 	display: block;
 	float: right;
+	width: 40%;
+	margin-right: 50px;
 }
 
 #quote {
-	display: inline-block;
+	display: block;
 	font-color: #b20068;
 	text-align: center;
 	border-top: 3px #b20068 solid;
