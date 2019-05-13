@@ -10,7 +10,7 @@ header {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 200px;
+	height: 100px;
 	padding: 20px;
 }
 
@@ -150,6 +150,7 @@ footer {
 	font-family: "Nonito Sans", sans-serif;
 	color: #b20068;
 	text-decoration: none;
+	text-align: center;
 	display: block;
 	float: left;
 	padding: 10px;
