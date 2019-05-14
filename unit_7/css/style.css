@@ -88,13 +88,67 @@ footer {
 	padding: 5px;
 }
 
+#quote {
+	display: block;
+	font-color: #b20068;
+	text-align: center;
+	border-top: 3px #b20068 solid;
+	margin: 0;
+}
+
+#slogan {
+	font-family: "Nonito Sans", cursive;
+	color: #444;
+	font-size: 1.2em;
+	padding-bottom: 30px;
+
+}
+
+
+.twocolumns {
+	display: block;
+	float: left;
+}
+
+.twocolumns div {
+	width: 50%;
+}
+
+.twocolumns a {
+	font-family: "Nonito Sans", sans-serif;
+	color: #b20068;
+	text-decoration: none;
+	display: inline;
+}
+
+.twocolumns a:hover {
+	color: #444;
+}
+
+
+#left {
+	display: block;
+	float: left;
+	width: 40%;
+	margin-left: 50px;
+	outline: 2px #b20068 solid;
+	padding: 0 10px 10px 10px;
+}
+
+#right {
+	display: block;
+	float: right;
+	width: 40%;
+	margin-right: 50px;
+}
+
 #services {
 	background-image: url("../images/notebook_1.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
 	background-image-opacity: 80%;
-	margin: 0;
+	margin: 20px 0;
 	padding: 20px;
 }
 
@@ -147,59 +201,9 @@ footer {
 	color: #fff;
 }
 
-#slogan {
-	font-family: "Nonito Sans", cursive;
-	color: #444;
-	font-size: 1.2em;
-	padding-bottom: 30px;
-
-}
 
 
-.twocolumns {
-	display: block;
-	float: left;
-}
 
-.twocolumns div {
-	width: 50%;
-}
-
-.twocolumns a {
-	font-family: "Nonito Sans", sans-serif;
-	color: #b20068;
-	text-decoration: none;
-	display: inline;
-}
-
-.twocolumns a:hover {
-	color: #444;
-}
-
-
-#left {
-	display: block;
-	float: left;
-	width: 40%;
-	margin-left: 50px;
-	outline: 2px #b20068 solid;
-	padding: 0 10px 10px 10px;
-}
-
-#right {
-	display: block;
-	float: right;
-	width: 40%;
-	margin-right: 50px;
-}
-
-#quote {
-	display: block;
-	font-color: #b20068;
-	text-align: center;
-	border-top: 3px #b20068 solid;
-	margin: 0;
-}
 
 .clearfix:after {
 	visibility: hidden;
