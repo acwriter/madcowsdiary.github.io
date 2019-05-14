@@ -98,8 +98,9 @@ footer {
 	color: #fff;
 	text-decoration: none;
 	display: block;
-	float: right;
-	width: 200px;
+	float: right
+	text-align: center;
+	width: 150px;
 	padding: 10px;
 }
 
