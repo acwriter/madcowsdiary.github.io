@@ -147,7 +147,7 @@ footer {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	background-image-opacity: 0.4;
+	background-image-opacity: 0.2;
 	margin: 20px 0;
 	padding: 20px;
 }
@@ -201,7 +201,19 @@ footer {
 	color: #fff;
 }
 
+.contact {
+	display: inline-block;
+	float: left;
+	width: 100%;
+}
 
+#emailhead {
+
+}
+
+#phonehead {
+	
+}
 
 
 
