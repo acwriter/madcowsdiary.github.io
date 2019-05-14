@@ -6,12 +6,7 @@ body {
 }
 
 header {
-	background: url("../images/point_1.jpg")
-	background-repeat: no-repeat;
-	background-position: center;
-	position: relative;
-	height: 100px;
-	padding: 20px;
+	
 }
 
 nav {
@@ -61,11 +56,11 @@ li {
 	float: left;
 	width: 50%;
 	height: 6em;
+	background-color: #fff;
 	outline: 2px #b20068 solid;
 	text-align: center;
 	line-height: 6em;
 	color: #b20068;
-
 }
 
 li a {
@@ -88,6 +83,31 @@ footer {
 	padding: 5px;
 }
 
+#logo {
+	background: url("../images/point_1.jpg")
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	height: 100px;
+	padding: 20px;
+}
+
+#logo a {
+	background-color: #b20068;
+	font-family: Merienda, sans-serif;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	float: right;
+	width: 150px;
+	padding: 10px;
+}
+
+#logo a:hover {
+	background-color: #444;
+	color: #fff;
+}
+
 #quote {
 	display: block;
 	font-color: #b20068;
@@ -100,7 +120,9 @@ footer {
 	font-family: "Nonito Sans", cursive;
 	color: #444;
 	font-size: 1.2em;
-	padding-bottom: 30px;
+	border-bottom: 3px #b20068 solid;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
 
 }
 
@@ -131,6 +153,7 @@ footer {
 	float: left;
 	width: 40%;
 	margin-left: 50px;
+	background-color: #fff;
 	outline: 2px #b20068 solid;
 	padding: 0 10px 10px 10px;
 }
@@ -164,6 +187,22 @@ footer {
 	
 }
 
+.columns a {
+	background-color: #b20068;
+	font-family: Merienda, sans-serif;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	float: left;
+	width: 150px;
+	padding: 10px;
+}
+
+.columns a:hover {
+	background-color: #444;
+	color: #fff;
+}
+
 #consulting {
 	display: inline-block;
 	width: 28%;
@@ -185,21 +224,7 @@ footer {
 	padding: 20px;
 }
 
-.columns a {
-	background-color: #b20068;
-	font-family: Merienda, sans-serif;
-	color: #fff;
-	text-decoration: none;
-	display: block;
-	float: left;
-	width: 150px;
-	padding: 10px;
-}
 
-.columns a:hover {
-	background-color: #444;
-	color: #fff;
-}
 
 .contact {
 	display: inline-block;
