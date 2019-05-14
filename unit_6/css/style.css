@@ -6,7 +6,11 @@ body {
 }
 
 header {
-	background-color: #fff;
+	background: url("../images/point_1.jpg")
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	height: 100px;
 	padding: 20px;
 }
 
@@ -15,7 +19,7 @@ nav {
 	color: #fff;
 }
 
-a {
+nav a {
 	background-color: #444;
 	font-family: Merienda, sans-serif;
 	color: #fff;
@@ -27,7 +31,7 @@ a {
 	border-right: 1px white solid;
 }
 
-a:hover {
+nav a:hover {
 	background-color: #b20068;
 	color: #fff;
 }
@@ -43,9 +47,8 @@ h1 {
 
 h2 {
 	font-size: 1.5em;
-	padding: .8em 0;
 	color: #b20068;
-	bottom-border-color: #b20068;
+	bottom-border: 1px #b20068 solid;
 }
 
 ul {
@@ -58,111 +61,169 @@ li {
 	float: left;
 	width: 50%;
 	height: 6em;
-	outline: 3px solid #b20068;
+	outline: 2px #b20068 solid;
 	text-align: center;
 	line-height: 6em;
 	color: #b20068;
-	background: #fff
 
+}
+
+li a {
+	font-family: "Nonito Sans", sans-serif;
+	color: #b20068;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px;
+}
+
+li a:hover {
+	color: #444;
 }
 
 footer {
 	color: #fff;
 	background-color: #444;
 	border: 1px white solid;
-	padding: 20px;
-}
-
-
-#logo {
-	background: url("../images/point_1.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	position: relative;
-	height: 200px;
-	padding: 20px;
+	padding: 5px;
 }
 
 #quote {
+	display: block;
 	font-color: #b20068;
 	text-align: center;
 	border-top: 3px #b20068 solid;
-	border-bottom: 3px #b20068 solid;
-	margin: 1px 0 0 0;
+	margin: 0;
 }
 
-#wrapper {
+#slogan {
+	font-family: "Nonito Sans", cursive;
+	color: #444;
+	font-size: 1.2em;
+	padding-bottom: 30px;
+
+}
+
+
+.twocolumns {
+	display: block;
+	float: left;
+}
+
+.twocolumns div {
+	width: 50%;
+}
+
+.twocolumns a {
+	font-family: "Nonito Sans", sans-serif;
+	color: #b20068;
+	text-decoration: none;
+	display: inline;
+}
+
+.twocolumns a:hover {
+	color: #444;
+}
+
+
+#left {
+	display: block;
+	float: left;
+	width: 40%;
+	margin-left: 50px;
+	outline: 2px #b20068 solid;
+	padding: 0 10px 10px 10px;
+}
+
+#right {
+	display: block;
+	float: right;
+	width: 40%;
+	margin-right: 50px;
+}
+
+#services {
 	background-image: url("../images/notebook_1.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	opacity: 0.8;
-	width: 100%;
-	margin: 10px 0;
+	background-image-opacity: 0.2;
+	margin: 20px 0;
 	padding: 20px;
+}
 
+.columns {
+	display: block;
+	float: left;
+	width: 100%;
+}
+
+.columns p {
+	background-color: rgba(0, 0, 0, 0.2);
+	padding: 20px;
+	
 }
 
 #consulting {
-	margin-left: 50px;
-	display: block;
-	float: left;
-}
-
-#services {
-	margin-right: 50px;
-	display: block;
-	float: right;
-
-}
-
-#section_one {
-	background-color: #fff;
-	border: 3px #b20068 solid;
+	display: inline-block;
+	width: 28%;
+	margin: 5px 10px;
 	padding: 20px;
 }
-#contact {
-	background-color: #fff;
-	font-family: Merienda, sans-serif;
-	color: #b20068;
-	display: block;
-	float: left;
-	width: 33%;
-	padding: 10px;
+
+#writing {
+	display: inline-block;
+	width: 28%;
+	margin: 5px 10px;
+	padding: 20px;
 }
 
-
-
-
-#contact1 {
-	background-color: #444;
-	font-family: Merienda, sans-serif;
-	color: #fff;
-	display: block;
-	float: left;
-	margin-right: 100px;
-	padding: 10px;
+#digital {
+	display: inline-block;
+	width: 28%;
+	margin: 5px 10px;
+	padding: 20px;
 }
 
-#contact2 {
-	background-color: #444;
+.columns a {
+	background-color: #b20068;
 	font-family: Merienda, sans-serif;
 	color: #fff;
+	text-decoration: none;
 	display: block;
 	float: left;
-	margin-right: 100px;
+	width: 150px;
 	padding: 10px;
 }
 
-#contact3 {
+.columns a:hover {
 	background-color: #444;
-	font-family: Merienda, sans-serif;
 	color: #fff;
-	display: block;
-	float: left;
-	margin-right: 30px;
-	padding: 10px;
 }
+
+.contact {
+	display: inline-block;
+	float: left;
+	width: 100%;
+}
+
+#emailhead {
+	display: inline-block;
+	float: left;
+	width: 40%;
+	margin-left: 50px;
+
+}
+
+#phonehead {
+	display: inline-block;
+	float: right;
+	width: 40%;
+	margin-right: 50px;
+
+}
+
+
 
 .clearfix:after {
 	visibility: hidden;
