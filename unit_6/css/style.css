@@ -6,12 +6,7 @@ body {
 }
 
 header {
-	background: url("../images/point_1.jpg")
-	background-repeat: no-repeat;
-	background-position: center;
-	position: relative;
-	height: 100px;
-	padding: 20px;
+	
 }
 
 nav {
@@ -86,6 +81,31 @@ footer {
 	background-color: #444;
 	border: 1px white solid;
 	padding: 5px;
+}
+
+#logo {
+	background: url("../images/point_1.jpg")
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	height: 100px;
+	padding: 20px;
+}
+
+#logo a {
+	background-color: #b20068;
+	font-family: Merienda, sans-serif;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	float: right;
+	width: 1200px;
+	padding: 10px;
+}
+
+#logo a:hover {
+	background-color: #444;
+	color: #fff;
 }
 
 #quote {
