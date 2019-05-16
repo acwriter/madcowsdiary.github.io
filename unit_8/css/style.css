@@ -163,16 +163,14 @@ footer {
 #left {
 	display: block;
 	float: left;
-	margin-left: 50px;
 	background-color: #fff;
-	outline: 2px #b20068 solid;
+	outline: .2em #b20068 solid;
 	padding: 0 10px 10px 10px;
 }
 
 #right {
 	display: block;
 	float: right;
-	margin-right: 50px;
 }
 
 #services {
