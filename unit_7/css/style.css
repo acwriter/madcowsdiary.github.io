@@ -161,7 +161,6 @@ footer {
 #left {
 	display: block;
 	float: left;
-	width: 50%;
 	margin-left: 50px;
 	background-color: #fff;
 	outline: 2px #b20068 solid;
@@ -171,7 +170,6 @@ footer {
 #right {
 	display: block;
 	float: right;
-	width: 50%;
 	margin-right: 50px;
 }
 
