@@ -131,7 +131,7 @@ footer {
 	font-family: "Nonito Sans", cursive;
 	color: #444;
 	font-size: 1.2em;
-	border-bottom: .5em #b20068 solid;
+	border-bottom: .2em #b20068 solid;
 	margin-bottom: 1.2em;
 	padding-bottom: .4em;
 }
@@ -163,6 +163,7 @@ footer {
 #left {
 	display: block;
 	float: left;
+	width: 50%;
 	background-color: #fff;
 	outline: .2em #b20068 solid;
 	padding: 0 10px 10px 10px;
@@ -171,6 +172,7 @@ footer {
 #right {
 	display: block;
 	float: right;
+	width: 50%;
 }
 
 #services {
