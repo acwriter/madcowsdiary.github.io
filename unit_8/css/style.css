@@ -38,17 +38,17 @@ h1, h2, h3{
 }
 
 h1 {
-	font-size: 28px;
+	font-size: 1.8;
 }
 
 h2 {
-	font-size: 24px;
+	font-size: 1.5em;
 	color: #b20068;
-	bottom-border: 1px #b20068 solid;
+	bottom-border: .6em #b20068 solid;
 }
 
-h2 {
-	font-size: 20px;
+h3 {
+	font-size: 1.2em;
 }
 
 ul {
@@ -60,11 +60,11 @@ ul {
 li {
 	float: left;
 	width: 50%;
-	height: 100px;
+	height: 6em;
 	background-color: #fff;
 	outline: 3px #b20068 solid;
 	text-align: center;
-	line-height: 100px;
+	line-height: 6em;
 	color: #b20068;
 }
 
@@ -74,7 +74,7 @@ li a {
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	padding: 10px;
+	padding: .6em;
 }
 
 li a:hover {
