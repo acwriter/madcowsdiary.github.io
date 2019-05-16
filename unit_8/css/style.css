@@ -1,0 +1,282 @@
+@import url("https://fonts.googleapis.com/css?family=Merienda|Neucha|Nunito+Sans");
+
+body {
+	font-family: "Nonito Sans", sans-serif;
+	font-size: 16px;
+	color: #222222;
+}
+
+header {
+	
+}
+
+nav {
+	background-color: #444;
+	color: #fff;
+}
+
+nav a {
+	background-color: #444;
+	font-family: Merienda, sans-serif;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	float: left;
+	width: 150px;
+	padding: 10px;
+	border-right: 1px white solid;
+}
+
+nav a:hover {
+	background-color: #b20068;
+	color: #fff;
+}
+
+h1, h2, h3{
+	font-family: Merienda, cursive;
+
+}
+
+h1 {
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 24px;
+	color: #b20068;
+	bottom-border: 1px #b20068 solid;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: left;
+	width: 50%;
+	height: 100px;
+	background-color: #fff;
+	outline: 3px #b20068 solid;
+	text-align: center;
+	line-height: 100px;
+	color: #b20068;
+}
+
+li a {
+	font-family: "Nonito Sans", sans-serif;
+	color: #b20068;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px;
+}
+
+li a:hover {
+	color: #444;
+}
+
+footer {
+	color: #fff;
+	background-color: #444;
+	border: 1px white solid;
+	padding: 5px;
+}
+
+#wrapper {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#logo {
+	background-image: url("../images/point_1.jpg")
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	height: 100px;
+	padding: 20px;
+}
+
+#logo a {
+	background-color: #b20068;
+	font-family: Merienda, sans-serif;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	float: right;
+	width: 150px;
+	padding: 10px;
+}
+
+#logo a:hover {
+	background-color: #444;
+	color: #fff;
+}
+
+#quote {
+	display: block;
+	font-color: #b20068;
+	text-align: center;
+	border-top: 3px #b20068 solid;
+	margin: 0;
+}
+
+#slogan {
+	font-family: "Nonito Sans", cursive;
+	color: #444;
+	font-size: 18px;
+	border-bottom: 3px #b20068 solid;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+
+}
+
+
+.twocolumns {
+	display: block;
+	float: left;
+}
+
+.twocolumns div {
+	width: 50%;
+}
+
+.twocolumns a {
+	font-family: "Nonito Sans", sans-serif;
+	color: #b20068;
+	text-decoration: none;
+	display: inline;
+}
+
+.twocolumns a:hover {
+	color: #444;
+}
+
+
+#left {
+	display: block;
+	float: left;
+	margin-left: 50px;
+	width: 40%;
+	background-color: #fff;
+	outline: 2px #b20068 solid;
+	padding: 0 10px 10px 10px;
+}
+
+#right {
+	display: block;
+	float: right;
+	margin-right: 50px;
+	width: 40%;
+}
+
+#services {
+	background-image: url("../images/notebook_1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	position: relative;
+	background-image-opacity: 0.2;
+	margin: 20px 0;
+	padding: 20px;
+}
+
+.columns {
+	display: block;
+	float: left;
+	width: 100%;
+}
+
+.columns p {
+	background-color: rgba(0, 0, 0, 0.2);
+	padding: 20px;
+	
+}
+
+.columns a {
+	background-color: #b20068;
+	font-family: Merienda, sans-serif;
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	float: left;
+	width: 150px;
+	padding: 10px;
+}
+
+.columns a:hover {
+	background-color: #444;
+	color: #fff;
+}
+
+#consulting {
+	display: inline-block;
+	width: 28%;
+	margin: 5px 10px;
+	padding: 20px;
+}
+
+#writing {
+	display: inline-block;
+	width: 28%;
+	margin: 5px 10px;
+	padding: 20px;
+}
+
+#digital {
+	display: inline-block;
+	width: 28%;
+	margin: 5px 10px;
+	padding: 20px;
+}
+
+
+
+.contact {
+	display: inline-block;
+	float: left;
+	width: 100%;
+}
+
+#emailhead {
+	display: inline-block;
+	float: left;
+	width: 40%;
+	margin-left: 50px;
+
+}
+
+#phonehead {
+	display: inline-block;
+	float: right;
+	width: 40%;
+	margin-right: 50px;
+
+}
+
+.contact a {
+	font-family: "Nonito Sans", sans-serif;
+	color: #b20068;
+	text-decoration: none;
+	display: inline;
+}
+
+.contact a:hover {
+	color: #444;
+}
+
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
