@@ -185,6 +185,7 @@ footer {
 	background-image-opacity: 0.2;
 	margin: 1.2em 0;
 	padding: 1.2em;
+	border-bottom: .2em #b20068 solid;
 }
 
 .columns {
