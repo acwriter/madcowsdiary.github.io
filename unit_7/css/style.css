@@ -162,6 +162,7 @@ footer {
 	display: block;
 	float: left;
 	margin-left: 50px;
+	width: 40%;
 	background-color: #fff;
 	outline: 2px #b20068 solid;
 	padding: 0 10px 10px 10px;
@@ -171,6 +172,7 @@ footer {
 	display: block;
 	float: right;
 	margin-right: 50px;
+	width: 40%;
 }
 
 #services {
