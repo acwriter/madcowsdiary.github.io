@@ -22,9 +22,9 @@ nav a {
 	text-decoration: none;
 	display: block;
 	float: left;
-	width: 150px;
-	padding: 10px;
-	border-right: 1px white solid;
+	width: 9em;
+	padding: .6em;
+	border-right: .1em white solid;
 }
 
 nav a:hover {
@@ -201,7 +201,7 @@ footer {
 	display: block;
 	float: left;
 	width: 9em;
-	padding: 1.2em;
+	padding: .6em;
 }
 
 .columns a:hover {
