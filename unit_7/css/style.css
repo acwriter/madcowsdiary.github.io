@@ -256,6 +256,17 @@ footer {
 
 }
 
+.contact a {
+	font-family: "Nonito Sans", sans-serif;
+	color: #b20068;
+	text-decoration: none;
+	display: inline;
+}
+
+.contact a:hover {
+	color: #444;
+}
+
 
 
 .clearfix:after {
