@@ -128,7 +128,7 @@ footer {
 }
 
 #slogan {
-	font-family: "Nonito Sans", cursive;
+	font-family: "Neucha", cursive;
 	color: #444;
 	font-size: 1.2em;
 	border-bottom: .1em #b20068 solid;
@@ -189,7 +189,7 @@ footer {
 
 .columns p {
 	background-color: rgba(0, 0, 0, 0.2);
-	padding: 20px;
+	padding: 1.2em;
 	
 }
 
@@ -200,8 +200,8 @@ footer {
 	text-decoration: none;
 	display: block;
 	float: left;
-	width: 150px;
-	padding: 10px;
+	width: 9em;
+	padding: 1.5em;
 }
 
 .columns a:hover {
