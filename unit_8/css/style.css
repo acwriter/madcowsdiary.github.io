@@ -141,7 +141,7 @@ footer {
 	display: block;
 	float: left;
 	width:80%;
-	margin: 2em 0 auto;
+	margin: 2em auto;
 }
 
 .twocolumns a {
@@ -159,7 +159,7 @@ footer {
 #left {
 	display: block;
 	float: left;
-	width: 50%;
+	width: 45%;
 	background-color: #fff;
 	outline: .2em #b20068 solid;
 	padding: 0 .2em .2em .2em;
@@ -168,7 +168,7 @@ footer {
 #right {
 	display: block;
 	float: right;
-	width: 50%;
+	width: 45%;
 }
 
 #services {
