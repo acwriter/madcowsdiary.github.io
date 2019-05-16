@@ -107,10 +107,11 @@ footer {
 	font-family: Merienda, sans-serif;
 	color: #fff;
 	text-decoration: none;
+	text-align: center;
 	display: block;
 	float: right;
-	width: 150px;
-	padding: 10px;
+	width: 9em;
+	padding: .6em;
 }
 
 #logo a:hover {
@@ -129,10 +130,10 @@ footer {
 #slogan {
 	font-family: "Nonito Sans", cursive;
 	color: #444;
-	font-size: 18px;
-	border-bottom: 3px #b20068 solid;
-	margin-bottom: 20px;
-	padding-bottom: 10px;
+	font-size: 1.2em;
+	border-bottom: 5em #b20068 solid;
+	margin-bottom: 1.2em;
+	padding-bottom: .6em;
 
 }
 
@@ -140,10 +141,7 @@ footer {
 .twocolumns {
 	display: block;
 	float: left;
-}
-
-.twocolumns div {
-	width: 50%;
+	width:80%;
 }
 
 .twocolumns a {
