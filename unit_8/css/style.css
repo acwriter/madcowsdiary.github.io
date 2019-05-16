@@ -243,6 +243,9 @@ footer {
 	display: inline-block;
 	float: left;
 	width: 100%;
+}
+
+.contact h2 {
 	margin-left: 4em;
 }
 
