@@ -38,13 +38,17 @@ h1, h2, h3{
 }
 
 h1 {
-	font-size: 2em;
+	font-size: 28px;
 }
 
 h2 {
-	font-size: 1.5em;
+	font-size: 24px;
 	color: #b20068;
 	bottom-border: 1px #b20068 solid;
+}
+
+h2 {
+	font-size: 20px;
 }
 
 ul {
@@ -56,11 +60,11 @@ ul {
 li {
 	float: left;
 	width: 50%;
-	height: 6em;
+	height: 60px;
 	background-color: #fff;
-	outline: 2px #b20068 solid;
+	outline: 3px #b20068 solid;
 	text-align: center;
-	line-height: 6em;
+	line-height: 60px;
 	color: #b20068;
 }
 
