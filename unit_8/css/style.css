@@ -84,8 +84,8 @@ li a:hover {
 footer {
 	color: #fff;
 	background-color: #444;
-	border: 1px white solid;
-	padding: 5px;
+	width: 100%;
+	padding: .3em;
 }
 
 #wrapper {
