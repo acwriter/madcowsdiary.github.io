@@ -89,12 +89,12 @@ footer {
 }
 
 #wrapper {
-	width: 1200px;
+	width: 100%;
 	margin: 0 auto;
 }
 
 #logo {
-	background-image: url("../images/point_1.jpg")
+	background-image: url("../images/point_1.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
