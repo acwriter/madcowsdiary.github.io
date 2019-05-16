@@ -144,10 +144,6 @@ footer {
 	margin: 2em 0 auto;
 }
 
-.twocolumns div {
-	width: 50%;
-}
-
 .twocolumns a {
 	font-family: "Nonito Sans", sans-serif;
 	color: #b20068;
@@ -163,16 +159,16 @@ footer {
 #left {
 	display: block;
 	float: left;
-	width: 50%;
+	width: 40%;
 	background-color: #fff;
 	outline: .2em #b20068 solid;
-	padding: 0 10px 10px 10px;
+	padding: 0 .2em .2em .2em;
 }
 
 #right {
 	display: block;
 	float: right;
-	width: 50%;
+	width: 40%;
 }
 
 #services {
