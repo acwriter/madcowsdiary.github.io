@@ -141,6 +141,7 @@ footer {
 	display: block;
 	float: left;
 	width:80%;
+	margin: 2em 0 auto;
 }
 
 .twocolumns a {
