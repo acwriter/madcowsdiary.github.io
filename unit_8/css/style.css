@@ -98,8 +98,8 @@ footer {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 100px;
-	padding: 20px;
+	height: 6em;
+	padding: 1.2em;
 }
 
 #logo a {
@@ -177,8 +177,8 @@ footer {
 	background-position: center;
 	position: relative;
 	background-image-opacity: 0.2;
-	margin: 20px 0;
-	padding: 20px;
+	margin: 1.2em 0;
+	padding: 1.2em;
 }
 
 .columns {
