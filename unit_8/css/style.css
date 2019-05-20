@@ -24,7 +24,7 @@ nav a {
 	float: left;
 	width: 10%;
 	padding: 1%;
-	border-right: .2em white solid;
+	border-right: .1em white solid;
 }
 
 nav a:hover {
