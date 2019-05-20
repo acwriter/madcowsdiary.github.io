@@ -24,7 +24,7 @@ nav a {
 	float: left;
 	width: 10%;
 	padding: 1%;
-	border-right: 21px white solid;
+	border-right: 2px white solid;
 }
 
 nav a:hover {
@@ -159,7 +159,7 @@ footer {
 	display: block;
 	float: left;
 	width: 30%;
-	margin-left: 10%;
+	margin-left: 5%;
 	background-color: #fff;
 	outline: 2px #b20068 solid;
 	padding: 0 .5em .2em .5em;
