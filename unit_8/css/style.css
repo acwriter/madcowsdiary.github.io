@@ -159,15 +159,16 @@ footer {
 	display: block;
 	float: left;
 	width: 30%;
+	margin-left: 10%;
 	background-color: #fff;
 	outline: 2px #b20068 solid;
 	padding: 0 .5em .2em .5em;
 }
 
 #left img {
-	width: 19%;
+	width: 23%;
 	float: left;
-	margin-right: 10%;
+	margin-right: 2%;
 }
 
 #right {
