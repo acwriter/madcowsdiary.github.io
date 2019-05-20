@@ -286,3 +286,14 @@ footer {
 	font-size: 0;
 }
 
+@ media screen only and (min-width: 1195px) {
+	body {
+		font-size: 14px;
+	}
+
+	#logo {
+		height: 8em;
+	}
+
+}
+
