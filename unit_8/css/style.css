@@ -23,8 +23,8 @@ nav a {
 	display: block;
 	float: left;
 	width: 10%;
-	padding: 0 1%;
-	border-right: 2px white solid;
+	padding: 1%;
+	border-right: 1% white solid;
 }
 
 nav a:hover {
@@ -110,7 +110,7 @@ footer {
 	display: block;
 	float: right;
 	width: 10%;
-	padding: 0 1%;
+	padding: 1%;
 }
 
 #logo a:hover {
