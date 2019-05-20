@@ -284,7 +284,7 @@ footer {
 	font-size: 0;
 }
 
-@media screen only and (min-width: 1195px) {
+@media screen only and (min-width: 1295px) {
 	body {
 		font-size: 14px;
 	}
