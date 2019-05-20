@@ -166,15 +166,15 @@ footer {
 }
 
 #left img {
-	width: 40%;
+	width: 23%;
 	float: left;
-	margin-right: 5%;
+	margin-right: 2%;
 }
 
 #right {
 	display: block;
 	float: right;
-	width: 35%;
+	width: 40%;
 	margin-right: 10%;
 }
 
