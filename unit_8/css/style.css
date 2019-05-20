@@ -160,8 +160,7 @@ footer {
 	float: left;
 	width: 30%;
 	background-color: #fff;
-	outline: 5% #b20068 solid;
-	margin-left: 10%;
+	outline: 2px #b20068 solid;
 	padding: 0 .5em .2em .5em;
 }
 
@@ -185,7 +184,7 @@ footer {
 	position: relative;
 	background-image-opacity: 0.2;
 	margin: 2% 0;
-	padding: 2%em;
+	padding: 2%;
 	border-bottom: .2em #b20068 solid;
 }
 
@@ -208,7 +207,7 @@ footer {
 	text-decoration: none;
 	display: block;
 	float: left;
-	width: 20%;
+	width: 30%;
 	padding: 1%;
 }
 
