@@ -286,12 +286,9 @@ footer {
 
 @media screen only and (min-width: 1295px) {
 	body {
-		font-size: 14px;
+		font-size: 10px;
 	}
 
-	#logo {
-		height: 300px;
-	}
 
 }
 
