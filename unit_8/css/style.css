@@ -22,9 +22,9 @@ nav a {
 	text-decoration: none;
 	display: block;
 	float: left;
-	width: 10%;
+	width: 7%;
 	padding: 1%;
-	border-right: .5% white solid;
+	border-right: 2% white solid;
 }
 
 nav a:hover {
