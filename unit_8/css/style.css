@@ -97,7 +97,6 @@ footer {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	height: 6em;
 	margin: 0 auto;
 	padding: 1%;
 }
@@ -111,6 +110,7 @@ footer {
 	display: block;
 	float: right;
 	width: 10%;
+	height: 6em;
 	padding: 2%;
 }
 
