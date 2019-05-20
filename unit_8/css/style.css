@@ -158,22 +158,24 @@ footer {
 #left {
 	display: block;
 	float: left;
-	width: 45%;
+	width: 30%;
 	background-color: #fff;
-	outline: 1% #b20068 solid;
+	outline: 5% #b20068 solid;
+	margin-left: 10%;
 	padding: 0 .5em .2em .5em;
 }
 
 #left img {
 	width: 19%;
 	float: left;
-	margin-right: 1%;
+	margin-right: 10%;
 }
 
 #right {
 	display: block;
 	float: right;
-	width: 45%;
+	width: 35%;
+	margin-right: 10%;
 }
 
 #services {
@@ -206,7 +208,7 @@ footer {
 	text-decoration: none;
 	display: block;
 	float: left;
-	width: 10%;
+	width: 20%;
 	padding: 1%;
 }
 
