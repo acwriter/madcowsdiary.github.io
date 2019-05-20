@@ -24,7 +24,7 @@ nav a {
 	float: left;
 	width: 10%;
 	padding: 1%;
-	border-right: 1% white solid;
+	border-right: 2% white solid;
 }
 
 nav a:hover {
@@ -284,9 +284,9 @@ footer {
 	font-size: 0;
 }
 
-@media screen only and (min-width: 1295px) {
+@media only screen and (min-width: 1295px) {
 	body {
-		font-size: 10px;
+		font-size: 12px;
 	}
 
 
