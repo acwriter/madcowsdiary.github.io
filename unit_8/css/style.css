@@ -297,6 +297,18 @@ footer {
 		font-size: 14px;
 	}
 
+	nav a {
+		float: none;
+	}
+
+	#left {
+		width: 50%;
+	}
+
+	#right {
+		width: 30%;
+	}
+
 
 }
 
