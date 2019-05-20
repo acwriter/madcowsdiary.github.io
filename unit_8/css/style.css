@@ -22,9 +22,9 @@ nav a {
 	text-decoration: none;
 	display: block;
 	float: left;
-	width: 7%;
+	width: 10%;
 	padding: 1%;
-	border-right: 2% white solid;
+	border-right: 21px white solid;
 }
 
 nav a:hover {
@@ -251,7 +251,7 @@ footer {
 #emailhead {
 	display: inline-block;
 	float: left;
-	width: 40%;
+	width: 30%;
 	margin-left: 10%;
 
 }
@@ -259,7 +259,7 @@ footer {
 #phonehead {
 	display: inline-block;
 	float: right;
-	width: 40%;
+	width: 30%;
 	margin-right: 10%;
 
 }
