@@ -386,5 +386,13 @@ footer {
 		margin: 1 auto;
 		background-color: #fff;
 	}
-
 }
+
+@media only screen and (max-width: 768px) {
+
+	#quote, #slogan, #right {
+		display: none;
+	}
+
+
+{
