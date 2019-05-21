@@ -316,3 +316,27 @@ footer {
 
 }
 
+@media only screen and (max-width: 1000px) {
+	body {
+		font-size: 14px;
+	}
+
+	nav a {
+		float: none;
+	}
+
+	#logo a {
+		float:none;
+		width: 100%;
+		padding: .5em;
+	}
+
+	.twocolumns {
+		float: none;
+	}
+
+	.columns {
+		float: none;
+	}
+
+}
