@@ -328,6 +328,7 @@ footer {
 	#logo a {
 		float:none;
 		width: 80%;
+		margin: 1 auto;
 		padding: .5em;
 	}
 
@@ -338,7 +339,7 @@ footer {
 	li {
 		float: none;
 		width: 80%;
-		margin: 0 auto;
+		margin: 1 auto;
 	}
 
 	#left {
@@ -349,6 +350,7 @@ footer {
 
 	#right {
 		float: none;
+		width: 80%;
 	}
 
 	.columns {
