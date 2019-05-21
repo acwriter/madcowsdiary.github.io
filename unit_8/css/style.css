@@ -327,12 +327,22 @@ footer {
 
 	#logo a {
 		float:none;
-		width: 100%;
+		width: 80%;
 		padding: .5em;
 	}
 
 	.twocolumns {
 		float: none;
+	}
+
+	#left {
+		float: none;
+		width: 80%;
+	}
+
+	#right {
+		float: none;
+		width: 80%;
 	}
 
 	.columns {
