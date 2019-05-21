@@ -335,14 +335,20 @@ footer {
 		float: none;
 	}
 
+	li {
+		float: none;
+		width: 80%;
+		margin: 0 auto;
+	}
+
 	#left {
 		float: none;
 		width: 80%;
+		margin: 0 auto;
 	}
 
 	#right {
 		float: none;
-		width: 80%;
 	}
 
 	.columns {
