@@ -358,4 +358,12 @@ footer {
 		float: none;
 	}
 
+	.columns p {
+		display: none;
+	}
+
+	.columns a {
+		width: 50%;
+	}
+
 }
