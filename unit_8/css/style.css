@@ -366,26 +366,14 @@ footer {
 		width: 50%;
 	}
 
-	#consulting {
+	#consulting, #writing, #digital {
 		display: block;
 		width: 80%;
 		margin: 1 auto;
+		padding: .5em;
 		background-color: #fff;
 	}
 
-	#writing {
-		display: block;
-		width: 80%;
-		margin: 1 auto;
-		background-color: #fff;
-	}
-
-	#digital {
-		display: block;
-		width: 80%;
-		margin: 1 auto;
-		background-color: #fff;
-	}
 }
 
 @media only screen and (max-width: 768px) {
