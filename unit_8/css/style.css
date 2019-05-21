@@ -351,6 +351,7 @@ footer {
 
 	#right {
 		float: none;
+		width: 80%;
 	}
 
 	.columns {
