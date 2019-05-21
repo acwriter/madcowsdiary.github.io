@@ -366,4 +366,25 @@ footer {
 		width: 50%;
 	}
 
+	#consulting {
+		display: block;
+		width: 80%;
+		margin: 1 auto;
+		background-color: #fff;
+	}
+
+	#writing {
+		display: block;
+		width: 80%;
+		margin: 1 auto;
+		background-color: #fff;
+	}
+
+	#digital {
+		display: block;
+		width: 80%;
+		margin: 1 auto;
+		background-color: #fff;
+	}
+
 }
