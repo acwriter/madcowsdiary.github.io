@@ -364,12 +364,13 @@ footer {
 
 	.columns a {
 		width: 50%;
+		padding: .1em;
 	}
 
 	#consulting, #writing, #digital {
 		display: block;
 		width: 80%;
-		margin: 1 auto;
+		margin: 3 auto;
 		padding: .5em;
 		background-color: #fff;
 	}
