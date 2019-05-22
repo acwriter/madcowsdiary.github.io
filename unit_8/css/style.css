@@ -371,8 +371,7 @@ footer {
 	#consulting, #writing, #digital {
 		display: block;
 		background-color: #fff;
-		width: 80%;
-		margin: 3 auto;
+		width: 100%;
 		padding: 1em;
 	}
 
@@ -392,17 +391,10 @@ footer {
 	}
 
 	.columns a {
-		width: 40%;
+		width: 5em;
 		padding: .8em;
 	}
 
-	#consulting, #writing, #digital {
-		display: block;
-		background-color: #fff;
-		width: 80%;
-		margin: 4 auto;
-		padding: .7em;
-	}
 
 	.contact h2 {
 		display: none;
