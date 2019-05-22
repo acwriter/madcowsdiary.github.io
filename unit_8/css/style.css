@@ -13,6 +13,7 @@ header {
 nav {
 	background-color: #444;
 	color: #fff;
+	width: 15%;
 	box-sizing: border-box;
 }
 
@@ -23,7 +24,6 @@ nav a {
 	text-decoration: none;
 	display: block;
 	float: left;
-	width: 15%;
 	padding: 1em;
 	border-right: .1em white solid;
 }
@@ -352,7 +352,8 @@ footer {
 
 	#right {
 		float: none;
-		width: 80%;
+		width: 100%;
+		padding: 1em;
 	}
 
 	.columns {
@@ -364,7 +365,7 @@ footer {
 	}
 
 	.columns a {
-		width: 50%;
+		width: 5em;
 		padding: 1em;
 	}
 
