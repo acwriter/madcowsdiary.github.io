@@ -329,7 +329,7 @@ footer {
 		float: none;
 		width: 80%;
 		margin: 0 auto;
-		padding: .5em;
+		padding: 1em;
 	}
 
 	.twocolumns {
@@ -364,7 +364,7 @@ footer {
 
 	.columns a {
 		width: 50%;
-		padding: .5em;
+		padding: 1em;
 	}
 
 	#consulting, #writing, #digital {
@@ -372,7 +372,7 @@ footer {
 		background-color: #fff;
 		width: 80%;
 		margin: 3 auto;
-		padding: .5em;
+		padding: 1em;
 	}
 
 }
