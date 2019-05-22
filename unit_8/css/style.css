@@ -380,7 +380,7 @@ footer {
 
 @media only screen and (max-width: 768px) {
 
-	#quote, #slogan, #right {
+	#quote, #slogan {
 		display: none;
 	}
 }
