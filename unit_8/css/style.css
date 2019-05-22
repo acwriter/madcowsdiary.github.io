@@ -382,6 +382,32 @@ footer {
 	#quote, #slogan, #right {
 		display: none;
 	}
+}
+
+@media only screen and (max-width: 320px) {
+
+	.columns a {
+		width: 40%;
+		padding: .7em;
+	}
+
+	#consulting, #writing, #digital {
+		display: block;
+		background-color: #fff;
+		width: 80%;
+		margin: 3 auto;
+		padding: .3em;
+	}
+
+	.contact h2 {
+		display: none;
+	}
+
+	#emailhead, #phonehead {
+		display: block;
+		float: none;
+	}
 
 
-{
+}
+
