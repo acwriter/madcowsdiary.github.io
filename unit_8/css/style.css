@@ -13,6 +13,7 @@ header {
 nav {
 	background-color: #444;
 	color: #fff;
+	box-sizing: border-box;
 }
 
 nav a {
@@ -21,9 +22,7 @@ nav a {
 	color: #fff;
 	text-decoration: none;
 	display: block;
-	box-sizing: border-box;
 	float: left;
-	width: 15%;
 	padding: 1em;
 	border-right: .1em white solid;
 }
