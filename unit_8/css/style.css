@@ -59,11 +59,11 @@ ul {
 li {
 	float: left;
 	width: 50%;
-	height: 7em;
+	height: 6.5em;
 	background-color: #fff;
 	outline: 3px #b20068 solid;
 	text-align: center;
-	line-height: 6em;
+	line-height: 6.5em;
 	color: #b20068;
 }
 
@@ -305,7 +305,7 @@ footer {
 
 	.columns a {
 		width: 45%;
-		padding: 4%;
+		padding: 2em;
 	}
 
 }
@@ -319,7 +319,7 @@ footer {
 	li, #right {
 		float: none;
 		text-align: center;
-		margin: 0 auto;
+		margin: 1em auto;
 		width: 100%;
 		padding: 1em;
 	}
@@ -327,7 +327,7 @@ footer {
 	#left {
 		float: none;
 		width: 100%;
-		margin: 0 auto;
+		margin: 1em auto;
 		padding: 1em;
 	}
 
