@@ -317,7 +317,6 @@ footer {
 	}
 
 	li, #right {
-		float: none;
 		text-align: center;
 		margin: 1em auto;
 		width: 100%;
@@ -335,12 +334,9 @@ footer {
 		float: none;
 	}
 
-	.columns p {
-		display: none;
-	}
 
 	.columns a {
-		width: 5em;
+		width: 50%;
 		padding: 1em;
 	}
 
