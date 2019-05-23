@@ -317,6 +317,7 @@ footer {
 	}
 
 	li, #right {
+		float: none;
 		text-align: center;
 		margin: 1em auto;
 		width: 100%;
