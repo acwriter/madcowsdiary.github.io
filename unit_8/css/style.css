@@ -311,21 +311,6 @@ footer {
 
 @media only screen and (max-width: 1024px) {
 
-		nav a {
-		float: none;
-	}
-
-	nav a {
-		float: none;
-	}
-
-	#logo a {
-		float: none;
-		width: 80%;
-		margin: 0 auto;
-		padding: 1em;
-	}
-
 	.twocolumns {
 		float: none;
 	}
@@ -372,6 +357,17 @@ footer {
 }
 
 @media only screen and (max-width: 768px) {
+	
+	nav a {
+		float: none;
+	}
+
+	#logo a {
+		float: none;
+		width: 80%;
+		margin: 0 auto;
+		padding: 1em;
+	}
 
 	#quote, #slogan {
 		display: none;
