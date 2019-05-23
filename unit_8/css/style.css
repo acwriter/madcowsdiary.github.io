@@ -168,7 +168,7 @@ footer {
 #left img {
 	width: 23%;
 	float: left;
-	margin-right: 2%;
+	margin-right: .2em;
 }
 
 #right {
