@@ -325,19 +325,16 @@ footer {
 	}
 
 	#servicebuttons{ 
-		background-color: #b20068;
-		font-family: Merienda, sans-serif;
-		color: #fff;
-		text-decoration: none;
 		display: block;
-		float: left;
+		float: none;
 		width: 38%;
 		padding: 2%;
 	 }
 
 	#servicebuttons a {
+		background-color: #b20068;
 		font-family: "Nonito Sans", sans-serif;
-		color: #b20068;
+		color: #ffffff;
 		text-decoration: none;
 		display: inline;
 		
