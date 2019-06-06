@@ -327,8 +327,8 @@ footer {
 	#servicebuttons{ 
 		display: block;
 		float: none;
-		width: 38%;
-		padding: 2%;
+		width: 100%;
+		padding: 1em;
 	 }
 
 	#servicebuttons a {
@@ -336,7 +336,6 @@ footer {
 		font-family: "Nonito Sans", sans-serif;
 		color: #ffffff;
 		text-decoration: none;
-		display: inline;
 		
 	}
 
