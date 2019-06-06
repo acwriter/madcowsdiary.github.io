@@ -328,19 +328,24 @@ footer {
 		display: block;
 		float: none;
 		width: 100%;
-		padding: 1em;
+		
 	 }
 
 	#servicebuttons a {
 		background-color: #b20068;
 		font-family: "Nonito Sans", sans-serif;
-		color: #ffffff;
+		color: #fff;
 		text-decoration: none;
+		display: block;
+		float: none;
+		width: 100%;
+		padding: 2em;
 		
 	}
 
 	#servicebuttons a:hover {
 		background-color: #444;
+		color: #fff;
 	}
 
 	#left {
