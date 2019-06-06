@@ -178,6 +178,10 @@ footer {
 	margin-right: 5%;
 }
 
+#servicebuttons {
+	display: none;
+}
+
 #services {
 	background-image: url("../images/notebook_1.jpg");
 	background-repeat: no-repeat;
