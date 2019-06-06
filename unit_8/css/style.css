@@ -321,11 +321,18 @@ footer {
 	}
 
 	li, #right {
-		float: none;
-		text-align: center;
-		margin: 1em auto;
-		width: 100%;
-		padding: 1em;
+		display: none;
+	}
+
+	#servicebuttons a {
+		background-color: #b20068;
+		font-family: Merienda, sans-serif;
+		color: #fff;
+		text-decoration: none;
+		display: block;
+		float: left;
+		width: 38%;
+		padding: 2%;
 	}
 
 	#left {
