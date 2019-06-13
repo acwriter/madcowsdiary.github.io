@@ -335,7 +335,7 @@ footer {
 		float: none;
 	}
 
-	li, #right {
+	li, #right, #left {
 		display: none;
 	}
 
