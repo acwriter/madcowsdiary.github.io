@@ -171,6 +171,10 @@ footer {
 	margin-right: .2em;
 }
 
+#leftmedia {
+	display: none;
+}
+
 #right {
 	display: block;
 	float: right;
