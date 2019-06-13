@@ -331,6 +331,8 @@ footer {
 	}
 
 	#leftmedia img {
+		
+		height: 300px
 		width: auto;
 		float: none;
 	}
