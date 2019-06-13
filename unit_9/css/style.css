@@ -326,7 +326,11 @@ footer {
 
 	#leftmedia {
 		display: block;
+		float: none;
 		width: auto;
+		background-color: #fff;
+		outline: .2em #b20068 solid;
+		padding: 0 .5em .5em .5em;
 	}
 
 	#leftmedia img {
