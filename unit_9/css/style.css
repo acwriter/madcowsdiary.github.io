@@ -324,6 +324,17 @@ footer {
 		float: none;
 	}
 
+	#leftmedia {
+		display: block;
+		border: none;
+		width: auto;
+	}
+
+	#leftmedia img {
+		width: auto;
+		float: none;
+	}
+
 	li, #right {
 		display: none;
 	}
