@@ -340,7 +340,7 @@ footer {
 		text-align: center;
 		display: block;
 		float: none;
-		width: 100%;
+		width: auto;
 		margin-bottom: 1em;
 		padding: 2em;
 	}
@@ -352,7 +352,7 @@ footer {
 
 	#left {
 		float: none;
-		width: 100%;
+		width: auto;
 		margin: 1em auto;
 		padding: 1em;
 	}
@@ -369,7 +369,7 @@ footer {
 	#consulting, #writing, #digital {
 		display: block;
 		background-color: #fff;
-		width: 100%;
+		width: auto;
 		padding: 1em;
 	}
 
