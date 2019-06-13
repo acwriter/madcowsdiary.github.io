@@ -334,10 +334,9 @@ footer {
 	}
 
 	#leftmedia img {
-		
-		height: 300px
 		width: auto;
 		float: none;
+		margin: .5em 0 0 0;
 	}
 
 	li, #right, #left {
