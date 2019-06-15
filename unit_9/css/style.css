@@ -153,6 +153,9 @@ footer {
 
 
 #left {
+	background-color: #fff;
+	outline: 2px #b20068 solid;
+	padding: 0 .5em .5em .5em;
 	
 }
 
