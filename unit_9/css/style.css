@@ -153,10 +153,6 @@ footer {
 
 
 #left {
-	display: block;
-	float: left;
-	width: 40%;
-	margin-left: 5%;
 	background-color: #fff;
 	outline: 2px #b20068 solid;
 	padding: 0 .5em .5em .5em;
@@ -175,8 +171,6 @@ footer {
 #right {
 	display: block;
 	float: right;
-	width: 40%;
-	margin-right: 5%;
 }
 
 #servicebuttons {
@@ -187,6 +181,7 @@ footer {
 	background-image: url("../images/notebook_1.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
+	vertical-align: top;
 	position: relative;
 	display: block;
 	margin: 0;
