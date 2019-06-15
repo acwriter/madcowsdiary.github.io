@@ -90,6 +90,10 @@ footer {
 	margin: 0 auto;
 }
 
+#navmedia {
+	display: none;
+}
+
 #logo {
 	background-image: url("../images/point_1.jpg");
 	background-repeat: no-repeat;
@@ -242,4 +246,17 @@ footer {
 	height: 0;
 	font-size: 0;
 }
+
+@media only screen and (max-width: 1280px) {
+	body {
+		font-size: 16px;
+	}
+
+@media only screen and (max-width: 920px) {
+	#logo a {
+		float: none;
+		width: 80%;
+		margin: 0 auto;
+		padding: 1em;
+	}
 
