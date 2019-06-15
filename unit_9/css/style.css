@@ -157,7 +157,6 @@ footer {
 	background-color: #fff;
 	outline: 2px #b20068 solid;
 	padding: 0 .5em .5em .5em;
-	
 }
 
 #left img {
@@ -183,7 +182,7 @@ footer {
 	position: relative;
 	display: block;
 	margin: 0;
-	padding: .2em;
+	padding: .5em;
 	border-bottom: .2em #b20068 solid;
 }
 
