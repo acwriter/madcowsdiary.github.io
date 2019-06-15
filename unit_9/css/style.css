@@ -197,7 +197,8 @@ footer {
 .columns {
 	display: inline-block;
 	float: left;
-	width: 33.33%;
+	width: 30.33%;
+	margin: 1%;
 }
 
 .columns p {
