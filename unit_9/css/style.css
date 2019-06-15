@@ -162,7 +162,7 @@ footer {
 #left img {
 	width: 30%;
 	float: left;
-	margin: .2em;
+	margin: .5em .5em 0 0;
 }
 
 #leftmedia {
