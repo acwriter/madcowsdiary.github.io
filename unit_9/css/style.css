@@ -137,10 +137,7 @@ footer {
 	display: inline-block;
 	float: left;
 	width:47%;
-	margin: 1% auto;
-	background-color: #fff;
-	outline: 2px #b20068 solid;
-	padding: 0 .5em .5em .5em;
+	margin: 1%;
 }
 
 .twocolumns a {
