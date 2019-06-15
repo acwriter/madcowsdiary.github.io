@@ -136,8 +136,11 @@ footer {
 .twocolumns {
 	display: inline-block;
 	float: left;
-	width:89%;
+	width:47%;
 	margin: 1% auto;
+	background-color: #fff;
+	outline: 2px #b20068 solid;
+	padding: 0 .5em .5em .5em;
 }
 
 .twocolumns a {
@@ -153,9 +156,7 @@ footer {
 
 
 #left {
-	background-color: #fff;
-	outline: 2px #b20068 solid;
-	padding: 0 .5em .5em .5em;
+	
 }
 
 #left img {
@@ -168,10 +169,6 @@ footer {
 	display: none;
 }
 
-#right {
-	display: block;
-	float: right;
-}
 
 #servicebuttons {
 	display: none;
