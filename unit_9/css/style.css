@@ -83,7 +83,6 @@ li a:hover {
 footer {
 	color: #fff;
 	background-color: #444;
-	width: 100%;
 	padding: .3em;
 }
 
@@ -191,13 +190,14 @@ footer {
 	position: relative;
 	display: block;
 	margin: 0;
+	padding: .2em;
 	border-bottom: .2em #b20068 solid;
 }
 
 .columns {
 	display: inline-block;
 	float: left;
-	width: 30.33%;
+	width: 31.33%;
 	margin: 1%;
 }
 
@@ -226,26 +226,10 @@ footer {
 .contact {
 	display: inline-block;
 	float: left;
-	width: 100%;
-	margin-left: 10%;
+	width: 49%;
+	margin: 1%;
 }
 
-
-#emailhead {
-	display: inline-block;
-	float: left;
-	width: 30%;
-	margin-left: 10%;
-
-}
-
-#phonehead {
-	display: inline-block;
-	float: right;
-	width: 30%;
-	margin-right: 10%;
-
-}
 
 .contact a {
 	font-family: "Nonito Sans", sans-serif;
