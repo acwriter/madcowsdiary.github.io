@@ -131,8 +131,7 @@ footer {
 	color: #444;
 	font-size: 1.2em;
 	border-bottom: .1em #b20068 solid;
-	margin-bottom: 1.2em;
-	padding-bottom: .4em;
+	padding-bottom: .5em;
 }
 
 
@@ -294,7 +293,7 @@ footer {
 
 @media only screen and (max-width: 1280px) {
 	body {
-		font-size: 14px;
+		font-size: 16px;
 	}
 
 
@@ -327,14 +326,14 @@ footer {
 	#leftmedia {
 		display: block;
 		float: none;
-		width: auto;
+		width: initial;
 		background-color: #fff;
 		outline: .2em #b20068 solid;
 		padding: 0 .5em .5em .5em;
 	}
 
 	#leftmedia img {
-		width: auto;
+		width: initial;
 		float: none;
 		margin: .5em 0 0 0;
 	}
