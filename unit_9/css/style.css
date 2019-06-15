@@ -195,9 +195,10 @@ footer {
 }
 
 .columns {
-	display: block;
+	display: inline-block;
 	float: left;
-	width: 100%;
+	width: 32.33%;
+	margin: 1%;
 }
 
 .columns p {
@@ -221,29 +222,6 @@ footer {
 	background-color: #444;
 	color: #fff;
 }
-
-#consulting {
-	display: inline-block;
-	width: 22%;
-	margin: 1% 1%;
-	padding: 4%;
-}
-
-#writing {
-	display: inline-block;
-	width: 22%;
-	margin: 1% 1%;
-	padding: 4%;
-}
-
-#digital {
-	display: inline-block;
-	width: 22%;
-	margin: 1% 1%;
-	padding: 4%;
-}
-
-
 
 .contact {
 	display: inline-block;
