@@ -182,6 +182,7 @@ footer {
 	background-image: url("../images/notebook_1.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
+	width: 100%;
 	vertical-align: top;
 	position: relative;
 	display: block;
@@ -253,21 +254,14 @@ footer {
 	}
 
 @media only screen and (max-width: 920px) {
-	nav {
-		display: none;
-	}
 
-	#logo a {
-		display: none;
-	}
-
-	#navmedia {
+	#navbutton {
 	background-color: #444;
 	color: #fff;
 	box-sizing: border-box;
 }
 
-	#navmedia a {
+	#navbutton a {
 	background-color: #444;
 	font-family: Merienda, sans-serif;
 	color: #fff;
@@ -278,24 +272,9 @@ footer {
 	border-right: .1em white solid;
 }
 
-	#navmedia a:hover {
+	#navbutton a:hover {
 	background-color: #b20068;
 	color: #fff;
 }
 
-	#logomedia a {
-	background-color: #b20068;
-	font-family: Merienda, sans-serif;
-	color: #fff;
-	text-decoration: none;
-	text-align: center;
-	display: block;
-	float: right;
-	padding: 1em;
-}
-
-	#logomedia a:hover {
-	background-color: #444;
-	color: #fff;
-}
 
