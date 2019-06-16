@@ -348,6 +348,17 @@ footer {
 		float: none;
 	}
 
+	#navbutton {
+	display: none;
+	}
+
+	#logo a {
+		float: none;
+		width: 80%;
+		margin: 0 auto;
+		padding: 1em;
+	}
+
 
 }
 
