@@ -273,4 +273,8 @@ footer {
 	color: #fff;
 }
 
+	#logo a {
+		display: none;
+	}
+
 
