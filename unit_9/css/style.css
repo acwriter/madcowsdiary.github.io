@@ -335,10 +335,14 @@ footer {
 	}
 
 	#left {
-		float: none;
+		display: block;
 		width: auto;
 		margin: 1em auto;
 		padding: 1em;
+	}
+
+	#services img {
+		display: none;
 	}
 
 
