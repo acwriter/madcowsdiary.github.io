@@ -295,13 +295,13 @@ footer {
 		float: none;
 		background-color: #fff;
 		outline: .2em #b20068 solid;
+		margin-bottom: .5em;
 		padding: 0 .5em .5em .5em;
 	}
 
 	#leftmedia img {
-		width: initial;
 		float: none;
-		margin: .5em 0 0 0;
+		margin: 0;
 	}
 
 	li, #right, #left {
@@ -348,12 +348,6 @@ footer {
 		float: none;
 	}
 
-	#logo a {
-		float: none;
-		width: 80%;
-		margin: 0 auto;
-		padding: 1em;
-	}
 
 }
 
