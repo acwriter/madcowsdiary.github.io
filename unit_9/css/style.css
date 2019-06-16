@@ -256,7 +256,7 @@ footer {
 	background-color: #b20068;
 	color: #fff;
 	box-sizing: border-box;
-}
+	}
 
 	#navbutton a {
 	background-color: #b20068;
@@ -266,15 +266,22 @@ footer {
 	float: left;
 	padding: 1em;
 	border-right: .1em white solid;
-}
+	}
 
 	#navbutton a:hover {
 	background-color: #444;
 	color: #fff;
-}
+	}
 
 	#logo a {
 		display: none;
 	}
+}
+
+@media only screen and (max-width: 880px) {
+	#slogan {
+		display: none;
+	}
+}
 
 
