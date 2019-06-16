@@ -292,7 +292,7 @@ footer {
 
 	#leftmedia {
 		display: block;
-		float: none;
+		width: auto;
 		background-color: #fff;
 		outline: .2em #b20068 solid;
 		margin-bottom: .5em;
@@ -344,19 +344,20 @@ footer {
 
 
 @media only screen and (max-width: 680px) {
+	
+	#logo a {
+		float: none;
+		width: 80%;
+		margin: 0 auto;
+		padding: 1em;
+	}
+
 	nav a {
 		float: none;
 	}
 
 	#navbutton {
 	display: none;
-	}
-
-	#logo a {
-		float: none;
-		width: 80%;
-		margin: 0 auto;
-		padding: 1em;
 	}
 
 
