@@ -248,14 +248,11 @@ footer {
 	font-size: 0;
 }
 
-@media only screen and (max-width: 1280px) {
-	body {
-		font-size: 16px;
-	}
 
 @media only screen and (max-width: 920px) {
 
 	#navbutton {
+	display: block;
 	background-color: #b20068;
 	color: #fff;
 	box-sizing: border-box;
@@ -266,7 +263,6 @@ footer {
 	font-family: Merienda, sans-serif;
 	color: #fff;
 	text-decoration: none;
-	display: block;
 	float: left;
 	padding: 1em;
 	border-right: .1em white solid;
