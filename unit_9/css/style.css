@@ -256,13 +256,13 @@ footer {
 @media only screen and (max-width: 920px) {
 
 	#navbutton {
-	background-color: #444;
+	background-color: #b20068;
 	color: #fff;
 	box-sizing: border-box;
 }
 
 	#navbutton a {
-	background-color: #444;
+	background-color: #b20068;
 	font-family: Merienda, sans-serif;
 	color: #fff;
 	text-decoration: none;
@@ -273,7 +273,7 @@ footer {
 }
 
 	#navbutton a:hover {
-	background-color: #b20068;
+	background-color: #444;
 	color: #fff;
 }
 
