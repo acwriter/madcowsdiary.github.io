@@ -360,7 +360,6 @@ footer {
 
 	.contact {
 		float: none;
-		display: block;
 	}
 
 	.contact h2, h3 {
@@ -370,6 +369,7 @@ footer {
 	#emailhead, #phonehead {
 		display: block;
 		width: auto;
+		font-size: .7em;
 		text-align: center;
 		padding: .5em;
 	}
