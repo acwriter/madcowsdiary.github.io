@@ -359,7 +359,8 @@ footer {
 
 	#emailhead, #phonehead {
 		display: block;
-		float: none;
+		margin: .5em;
+		padding: .5em;
 	}
 }
 
