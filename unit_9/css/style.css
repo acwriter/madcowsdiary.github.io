@@ -360,9 +360,10 @@ footer {
 
 	.contact {
 		float: none;
+		display: block;
 	}
 
-	.contact h2 {
+	.contact h2, h3 {
 		display: none;
 	}
 
