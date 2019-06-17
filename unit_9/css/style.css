@@ -358,6 +358,10 @@ footer {
 
 @media only screen and (max-width: 780px) {
 
+	.contact {
+		float: none;
+	}
+
 	.contact h2 {
 		display: none;
 	}
@@ -388,6 +392,12 @@ footer {
 	display: none;
 	}
 
+}
+
+@media only screen and (max-width: 680px) {
+	#quote {
+		display: none;
+	}
 }
 
 
