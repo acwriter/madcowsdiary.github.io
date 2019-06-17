@@ -351,6 +351,19 @@ footer {
 	}
 }
 
+@media only screen and (max-width: 780px) {
+
+	.contact h2 {
+		display: none;
+	}
+
+	#emailhead, #phonehead {
+		display: block;
+		float: none;
+	}
+}
+
+
 @media only screen and (max-width: 680px) {
 	
 	#logo a {
