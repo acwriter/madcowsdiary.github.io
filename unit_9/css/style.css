@@ -364,12 +364,12 @@ footer {
 	}
 
 	.contact h2, h3 {
-		size: .6em;
+		display: none;
 	}
 
 	#emailhead, #phonehead {
 		display: block;
-		margin: .5em;
+		text-align: center;
 		padding: .5em;
 	}
 }
