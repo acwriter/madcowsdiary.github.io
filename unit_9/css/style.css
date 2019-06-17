@@ -292,7 +292,6 @@ footer {
 
 	#leftmedia {
 		display: block;
-		width: auto;
 		background-color: #fff;
 		outline: .2em #b20068 solid;
 		margin-bottom: .5em;
@@ -334,12 +333,6 @@ footer {
 		color: #fff;
 	}
 
-	#left {
-		display: block;
-		width: auto;
-		margin: 1em auto;
-		padding: 1em;
-	}
 
 	#services img {
 		display: none;
