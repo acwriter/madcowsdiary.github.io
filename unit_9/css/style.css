@@ -334,17 +334,17 @@ footer {
 		background-color: #444;
 		color: #fff;
 	}
-
-
 	
 }
 
 @media only screen and (max-width: 850px) {
 .columns {
+		display: block;
 		float: none;
+		width: auto;
 		background-color: #fff;
 		margin: 1em;
-		padding: 1em;
+		padding: .5em;
 	}
 
 	.columns a {
