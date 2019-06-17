@@ -364,7 +364,7 @@ footer {
 	}
 
 	.contact h2, h3 {
-		display: none;
+		size: .6em;
 	}
 
 	#emailhead, #phonehead {
