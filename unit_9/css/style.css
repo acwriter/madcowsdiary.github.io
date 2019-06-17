@@ -339,6 +339,7 @@ footer {
 
 @media only screen and (max-width: 850px) {
 .columns {
+		display: block;
 		float: none;
 		background-color: #fff;
 		margin: .5em;
